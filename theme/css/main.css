@@ -6,12 +6,16 @@
     Autor URI: http://mathieu.agopian.info
 
     This theme is uncopyrighted, free, and offered as is.
+
+    Update (inverted colors, minor changes) by Tastalian, 2013-03-20.
 */
+
 @import url("pygment.css");
+
 /* line 13, ../../compass/src/main.scss */
 body {
-  background: #fff;
-  color: #333;
+  background: #1E1E1E;
+  color: #EEE;
   font: 20px Hoefler Text, bodyfont, serif;
   line-height: 30px;
   max-width: 30em;
@@ -20,7 +24,7 @@ body {
 
 /* line 28, ../../compass/src/main.scss */
 h1 {
-  color: #333333;
+  color: #F00;
   font-family: Helvetica, sans-serif;
   font-size: 1.5em;
   font-weight: normal;
@@ -29,29 +33,30 @@ h1 {
 
 /* line 34, ../../compass/src/main.scss */
 h2 {
-  color: #666666;
+  color: #DDD;
   font-family: Helvetica, sans-serif;
   font-size: 1.3em;
 }
 
 /* line 38, ../../compass/src/main.scss */
 h3 {
-  color: #666666;
+  color: #CCC;
   font-family: Helvetica, sans-serif;
   font-size: 1em;
 }
 
 /* line 42, ../../compass/src/main.scss */
 h4 {
-  color: #666666;
+  color: #CCC;
   font-family: Helvetica, sans-serif;
   font-size: 0.9em;
 }
 
 /* line 46, ../../compass/src/main.scss */
-time {
+time, #sitename {
   color: #c0c0c0;
-  font-size: 50%;
+  font-size: 75%;
+  font-variant: small-caps;
 }
 
 /* line 51, ../../compass/src/main.scss */
@@ -72,27 +77,39 @@ p {
   margin: 30px auto;
   text-indent: 0px;
 }
+
 /* line 65, ../../compass/src/main.scss */
 p.caption {
   font-size: 80%;
   margin-top: 0;
 }
 
-/* line 71, ../../compass/src/main.scss */
+/* my own link style (Tastalian) */
+
 a {
-  border-bottom: #999 1px solid;
-  color: #303030;
-  text-decoration: none;
+    color: #3B0;
+    text-decoration: none;
 }
-/* line 75, ../../compass/src/main.scss */
+
 a:hover {
-  color: #999;
+    background-color: #3B0;
+    color: white;
+}
+
+a:visited {
+    color: #F60;
+}
+
+a:visited:hover {
+    background-color: #F60;
+    color: white;
 }
 
 /* line 78, ../../compass/src/main.scss */
 ul, ol {
   padding: .5em 0em 1em 3.2em;
 }
+
 /* line 80, ../../compass/src/main.scss */
 ul li, ol li {
   line-height: 30px;
@@ -101,14 +118,14 @@ ul li, ol li {
 
 /* line 86, ../../compass/src/main.scss */
 strong {
-  color: #555555;
+  color: #999;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-weight: bold;
 }
 
 /* line 92, ../../compass/src/main.scss */
 tt, pre {
-  background-color: #fafafa;
+  background-color: #2A2A2A;
   font-family: Inconsolata, Monaco, monospace;
   line-height: 1.2em;
 }
@@ -124,10 +141,12 @@ pre {
 header {
   padding-bottom: 20px;
 }
+
 /* line 106, ../../compass/src/main.scss */
 header a {
   border-bottom: none;
 }
+
 /* line 108, ../../compass/src/main.scss */
 header a#page-title {
   font-weight: bold;
@@ -137,6 +156,7 @@ header a#page-title {
 #article-list {
   margin-top: 100px;
 }
+
 /* line 114, ../../compass/src/main.scss */
 #article-list ol li {
   line-height: 1.2em;
@@ -146,22 +166,19 @@ header a#page-title {
 
 /* line 121, ../../compass/src/main.scss */
 footer {
-  background: #fff;
-  color: #666;
+  background: #2A2A2A;
+  color: #CCC;
   font-family: helvetica, sans-serif;
   font-size: 13px;
   letter-spacing: 4px;
   margin-left: 20px;
 }
-/* line 128, ../../compass/src/main.scss */
-footer a {
-  border-bottom: none;
-  color: #c0c0c0;
-}
+
 /* line 132, ../../compass/src/main.scss */
 footer li {
   display: inline;
 }
+
 /* line 135, ../../compass/src/main.scss */
 footer p {
   text-align: right;
