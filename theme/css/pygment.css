@@ -1,3 +1,10 @@
+.codehilite pre {
+  display: block;
+  padding: .5em;
+  background: rgba(253,251,228,0.64);
+  color: #657b83;
+}
+
 .hll {
 background-color:#FFFFCC;
 }
@@ -116,7 +123,7 @@ font-weight:bold;
 color:#007020;
 }
 .nf {
-color:#10D0E0;
+color:#06287E;
 }
 .nl {
 color:#002070;
