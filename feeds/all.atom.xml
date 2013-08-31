@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>NO PROMISES</title><link href="http://jdangerx.github.io/blog/" rel="alternate"></link><link href="http://jdangerx.github.io/blog/feeds/all.atom.xml" rel="self"></link><id>http://jdangerx.github.io/blog/</id><updated>2013-08-30T00:00:00-07:00</updated><entry><title>3D Printers: a Revue</title><link href="http://jdangerx.github.io/blog/3d-printers-a-revue.html" rel="alternate"></link><updated>2013-08-30T00:00:00-07:00</updated><author><name>John Xia</name></author><id>tag:jdangerx.github.io/blog,2013-08-30:3d-printers-a-revue.html</id><summary type="html">&lt;p&gt;This will be a short overview of a couple 3D printer projects I have
+undertaken in the past few years.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;mendel&lt;ul&gt;
+&lt;li&gt;sourcing parts&lt;/li&gt;
+&lt;li&gt;the structural transistors&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;prusa&lt;ul&gt;
+&lt;li&gt;using a commercial 3D printer&lt;/li&gt;
+&lt;li&gt;giant objet machine&lt;/li&gt;
+&lt;li&gt;rubbery support material that had to be removed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;printrbot+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;jury-rigged a z-stop holder&lt;/li&gt;
+&lt;li&gt;had a jamming extruder&lt;/li&gt;
+&lt;li&gt;herringbone gears!&lt;/li&gt;
+&lt;li&gt;tried all sorts of things to avoid dremeling the gear teeth&lt;ul&gt;
+&lt;li&gt;maybe the bolt isn't sitting straight?&lt;/li&gt;
+&lt;li&gt;maybe the hole is off-center?&lt;/li&gt;
+&lt;li&gt;maybe the motor needs to wobble more?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;dremeled the gear teeth that had white powder on them&lt;/li&gt;
+&lt;li&gt;plans for improvement&lt;/li&gt;
+&lt;li&gt;glass bed&lt;/li&gt;
+&lt;li&gt;better power source&lt;/li&gt;
+&lt;li&gt;upgrade hot end&lt;/li&gt;
+&lt;li&gt;bowden tube&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;plan for new one&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;linear rails&lt;/li&gt;
+&lt;li&gt;corexy with spectra&lt;/li&gt;
+&lt;li&gt;should avoid torquing of carriage, and spectra should help with crossing
+    belts&lt;/li&gt;
+&lt;li&gt;might print some stuff to attach spectra to steel shaft without drilling
+    a hole through it&lt;/li&gt;
+&lt;li&gt;bowden... may test out direct drive&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="3D printing"></category><category term="code"></category></entry><entry><title>Bamboo Bike</title><link href="http://jdangerx.github.io/blog/bamboo-bike.html" rel="alternate"></link><updated>2013-08-30T00:00:00-07:00</updated><author><name>John Xia</name></author><id>tag:jdangerx.github.io/blog,2013-08-30:bamboo-bike.html</id><summary type="html">&lt;ul&gt;
+&lt;li&gt;Bamboo bike&lt;/li&gt;
+&lt;li&gt;mk I&lt;ul&gt;
+&lt;li&gt;used metal joints as a skeleton&lt;/li&gt;
+&lt;li&gt;used twine instead of raw matted fiber&lt;/li&gt;
+&lt;li&gt;geometry was wack&lt;/li&gt;
+&lt;li&gt;looks like we need a jig...&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;mk II&lt;ul&gt;
+&lt;li&gt;there is an instructable&lt;/li&gt;
+&lt;li&gt;some pics&lt;/li&gt;
+&lt;li&gt;it broke!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;mk III&lt;ul&gt;
+&lt;li&gt;redid the joints with carbon fiber&lt;/li&gt;
+&lt;li&gt;bondo'd the bamboo together&lt;/li&gt;
+&lt;li&gt;vacuum bagging&lt;/li&gt;
+&lt;li&gt;as I was adding CF suddenly realized that smooth bondo + CF would be a
+    good joint method. Alternatively, bamboo gussets + bondo&lt;ul&gt;
+&lt;li&gt;the idea is to have a smooth joint for the CF&lt;/li&gt;
+&lt;li&gt;would be nice to test...&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="bicycles"></category></entry><entry><title>Breakaway</title><link href="http://jdangerx.github.io/blog/breakaway.html" rel="alternate"></link><updated>2013-08-30T00:00:00-07:00</updated><author><name>John Xia</name></author><id>tag:jdangerx.github.io/blog,2013-08-30:breakaway.html</id><summary type="html">&lt;ul&gt;
+&lt;li&gt;Breakaway&lt;/li&gt;
+&lt;li&gt;drivetrain&lt;ul&gt;
+&lt;li&gt;how do we make it go over bumps? just make it bigger&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;accumulator&lt;ul&gt;
+&lt;li&gt;single roller&lt;/li&gt;
+&lt;li&gt;suction&lt;/li&gt;
+&lt;li&gt;got to competition - duh! double roller&lt;/li&gt;
+&lt;li&gt;pinch vs idle&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;kicker&lt;ul&gt;
+&lt;li&gt;quick prototype&lt;/li&gt;
+&lt;li&gt;how to make variable?&lt;/li&gt;
+&lt;li&gt;dog gears&lt;/li&gt;
+&lt;li&gt;ratchet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;attempt at chokehold strategy&lt;ul&gt;
+&lt;li&gt;make a ramp that redirects&lt;/li&gt;
+&lt;li&gt;built the thing in 1 week&lt;/li&gt;
+&lt;li&gt;it didn't work&lt;/li&gt;
+&lt;li&gt;also I became deathly ill&lt;/li&gt;
+&lt;li&gt;lesson: don't pivot a week before launch&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="robotics"></category></entry><entry><title>Exploits at the Exploratorium</title><link href="http://jdangerx.github.io/blog/exploits-at-the-exploratorium.html" rel="alternate"></link><updated>2013-08-30T00:00:00-07:00</updated><author><name>John Xia</name></author><id>tag:jdangerx.github.io/blog,2013-08-30:exploits-at-the-exploratorium.html</id><summary type="html">&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;In the summer of 2011, I started volunteering with the wonderful folks in the
+&lt;a href="http://blogs.exploratorium.edu/tinkering/"&gt;Tinkering Studio&lt;/a&gt; at the
+Exploratorium. On the first day I showed up, they handed me a dustcloth and put
+me to work dusting cabinets. I came back the next day and was immediately
+offered the job of typing out labels for storage boxes. Once I finished with
+that I got to play with the lasercutter.&lt;/p&gt;
+&lt;p&gt;In the following summers I have been occupied with
+&lt;a href="http://atom.stanford.edu/"&gt;other&lt;/a&gt;* &lt;a href="http://www.missionst.com"&gt;things&lt;/a&gt;, but I
+go back and help out when I am in town. Here are some of the things I have
+worked on while there:&lt;/p&gt;
+&lt;h2&gt;Cardboard Iris&lt;/h2&gt;
+&lt;p&gt;This is the first major project I worked on at the Tinkering Studio. We were in
+the early stages of thinking about moving to a new space. One idea was that we
+could have a room that we could close off to outside light, and one way to do
+this was with an irising mechanism like that of a camera. Because we love cardboard, it was a natural choice for the prototype.&lt;/p&gt;
+&lt;h2&gt;Drawdio Drinks Allotrope Laser Range-Finder Reflective Rotary Kinetiscope Wire&lt;/h2&gt;
+&lt;h2&gt;Automata&lt;/h2&gt;
+&lt;p&gt;* This website is so out-of-date that the experiment I worked on is not on it.&lt;/p&gt;</summary><category term="tinkering"></category><category term="exploratorium"></category><category term="drawdio"></category><category term="cardboard"></category><category term="lasercutter"></category></entry><entry><title>Scav Highlights Through The Years</title><link href="http://jdangerx.github.io/blog/scav-highlights-through-the-years.html" rel="alternate"></link><updated>2013-08-30T00:00:00-07:00</updated><author><name>John Xia</name></author><id>tag:jdangerx.github.io/blog,2013-08-30:scav-highlights-through-the-years.html</id><summary type="html">&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is Scav Hunt, and this is my role in it.&lt;/p&gt;
+&lt;h2&gt;2011: The Lamp&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;37. One of those cheap, many-headed colorful dorm floor lamps. [1 point
+per head, 30 bonus points if they can move unaided, 10 bonus bonus
+points if it is tearing apart a small ship]&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;2011: The Eyes&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;40. Affix a pair of appropriately enormous googly eyes to the campus
+building of your choice. [8 points]&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;2012: Piano&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;146. Play me a drink, Sam, for old times’ sake...on your piano that
+dispenses a beverage component with every keystroke. Changing the
+melody should change the mixology. Instruments and their compositions
+will be judged both on the quality of the cocktails and the musicality
+of their recipes. [250 points, 25 extra points if your keyboard can
+play a different melody to create a different drink]&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;2012: Map&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;264. King’s Landing and The Twins are all right, I guess, but we’d
+rather see something a little more neo-Gothic. Produce a map of the U
+of C campus that when triggered erects a clockwork version of a campus
+building of your choice. [175 points]&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;2013: Liver&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;84. Take us on a Fantastic Voyage through your team’s larger-than-life
+model of a human organ. Your structure must be able to comfortably
+accommodate at least four tourists at a time and present an accurate
+and informative account of the organ’s inner workings. We’ll happily
+enter the body part of your choice, but remember that our heart belongs
+to the Franklin Institute. [150 points]&lt;/em&gt;&lt;/p&gt;</summary><category term="scav"></category></entry><entry><title>208</title><link href="http://jdangerx.github.io/blog/208.html" rel="alternate"></link><updated>2013-08-15T00:00:00-07:00</updated><author><name>John Xia</name></author><id>tag:jdangerx.github.io/blog,2013-08-15:208.html</id><summary type="html">&lt;iframe width="560" height="315" src="//www.youtube.com/embed/zQqBJ3nv6Ls"
+frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;em&gt;208. An aquagraphic-style water curtain that displays your team name or
+logo. [250 points] †&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This is one of the items I worked on for &lt;a href="http://scavhunt.uchicago.edu"&gt;Scav&lt;/a&gt;
+this year. I didn't complete it, but I will, someday.&lt;/p&gt;
+&lt;p&gt;Today I write about the original design and why it didn't work out. There's a
+bonus section at the end about what the future holds.&lt;/p&gt;
+&lt;p&gt;4  35 200
+My original concept was a wooden frame 18" tall and 12" wide. I mounted a PVC
+pipe across the top as a water tank. I drilled small holes in the bottom of the
+pipe to let the water out. 20
+&lt;a href="http://www.sciplus.com/p/12VDC-PULL-SOLENOID_51553"&gt;solenoids&lt;/a&gt; were mounted in
+a row next to the pipe; these moved in and out when I pulsed electricity through
+them. Pieces of foamcore poster-board were attached to these solenoids as crude
+valves for the water.&lt;/p&gt;
+&lt;p&gt;I connected the solenoids to a rotating drum (an old oatmeal container). I put a
+gap in the circuit of each solenoid, which rubbed against the drum. If the drum
+had a conductive coating where it touched the gap, it would complete the
+circuit. This would activate the solenoid, opening the valve and letting water
+out.&lt;/p&gt;
+&lt;p&gt;The end product would be that solenoids would fire in sync to whatever picture
+was drawn on the drum, transferring the picture from drum to water.&lt;/p&gt;
+&lt;p&gt;It would be a cool machine - above and beyond what was asked of us. All the
+wiring was pretty basic. It couldn't be that hard to make valves, could it?&lt;/p&gt;
+&lt;p&gt;Short answer: yes, it can!&lt;/p&gt;
+&lt;p&gt;Long answer: First, I tried sealing the holes from the outside by sticking a
+foamcore flap next to each. It leaked horribly. Additionally, when the valves
+&lt;em&gt;did&lt;/em&gt; open, the water stuck to the flap and dripped at weird angles.&lt;/p&gt;
+&lt;p&gt;After much troubleshooting, Cecilie suggested that we seal the valves from the
+inside. Instead of pushing a flap up against the outside of the hole, we would
+have a plunger that went up and down over the hole. The water pressure would
+push down on the valve, so it would help keep the valve closed. The sticking
+would be conquered because there would be nothing downstream of the hole to mess
+with the water. We redesigned the reservoir and moved the solenoids to the top
+so they moved vertically. We had 12 hours left to complete this. We were gonna
+make it!&lt;/p&gt;
+&lt;p&gt;But making accurate plungers out of foamcore is really, &lt;em&gt;really&lt;/em&gt; hard. At 6AM
+Sunday we found that they were all misaligned. The valves wobbled around on the
+solenoid. The drum wasn't big enough for the wiring. The solenoids kept falling
+off. &lt;strong&gt;We didn't have enough time.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I gave up, defeated. I presented it to the judges. I tried to tell them how cool
+it would have been. I swore I would get it working eventually. They smiled and
+told me to contact them when I did.&lt;/p&gt;
+&lt;p&gt;This summer I've gotten more excited about rebuilding it. Using
+&lt;a href="http://jdangerx.github.io/blog/fourthapp.html"&gt;our app&lt;/a&gt; really showed me the
+visceral joy of drawing things in plastic. Drawing with falling water would be
+even cooler. I've been kicking some ideas around, to be covered in detail after
+I implement them. Here they are:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Idea Number One:&lt;/strong&gt; 3D print the valve pieces. They'll be stiffer, more
+consistent, and more accurate than the foamcore ones. They'll also attach to the
+solenoids better if we design the pieces to be mounted securely. I should 3D
+print mounts for the solenoids, too. These two combined should make the plunging
+valve action very reliable.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Idea Number Two:&lt;/strong&gt; Make it taller. One problem some of the other teams
+mentioned was that water falls quickly. To be able to see the picture for long
+enough, we need to either make the water fall slower or make the screen
+taller. Maybe both.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Idea Number Three:&lt;/strong&gt; Use a microcontroller or transistors to separate power
+and control circuits. This allows faster timings. That leads to smaller
+droplets, which fall slower. However, we are still limited by the speed of the
+solenoids. That can be alleviated by making the solenoid travel much shorter,
+facilitated by Idea One. This also means we would push less current through the
+surface of the drum, which means we can use pencils and the like as the drawing
+medium. A drawback of this system is that we would lose the direct connection
+between the drawing and the water. It'd be less "pure".&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Idea Number Four:&lt;/strong&gt; Use transistors. This lets us separate the power and
+control circuits. This is nice since we can get fast timings, but also because
+we don't have to&lt;/p&gt;</summary><category term="scav"></category><category term="3D printing"></category></entry><entry><title>FourthApp</title><link href="http://jdangerx.github.io/blog/fourthapp.html" rel="alternate"></link><updated>2013-08-13T00:00:00-07:00</updated><author><name>John Xia</name></author><id>tag:jdangerx.github.io/blog,2013-08-13:fourthapp.html</id><summary type="html">&lt;p&gt;I'm currently an intern at
+&lt;a href="http://www.missionst.com/"&gt;Mission St. Manufacturing&lt;/a&gt;. We're a 3D
+printing company that's trying to streamline 3D printing. If you're
+not familiar with 3D printers, imagine building up an object with a
+hot glue gun, carefully squeezing out layer upon layer of plastic. Now
+imagine a robot doing that.&lt;/p&gt;
+&lt;p&gt;One of the problems we are fixing is that you have to jump through a
+ton of hoops to print something. Making a 3D model is hard. Once you
+have a model you have to turn that into instructions for your printer,
+and once you have the instructions, you have to actually print
+them. We hide most of this on our server so nobody has to deal
+with it.&lt;/p&gt;
+&lt;p&gt;You can't hide the actual modeling, so we're making tablet apps that
+make simple 3D modeling &lt;em&gt;really&lt;/em&gt; simple.  We've got a few in the
+works. Let's take a look at one that turns your finger drawings into
+real things that you can hold. Its code name is FourthApp.&lt;/p&gt;
+&lt;p&gt;First you draw something. It's kind of like Paint. No spray-can, though.&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/3Ve1p3b.jpg" alt="" style="width: 400px;"/&gt;
+&lt;!-- &lt;img alt="" src="http://i.imgur.com/3Ve1p3b.jpg" /&gt; --&gt;&lt;/p&gt;
+&lt;p&gt;Then you hit print preview. We turn it into a 3D model and send it
+back down for your perusal:&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/ufGNaMuh.jpg" alt="" style="width: 400px;"/&gt;
+&lt;!-- &lt;img alt="" src="http://i.imgur.com/ufGNaMuh.jpg" /&gt; --&gt;&lt;/p&gt;
+&lt;p&gt;If it turns out satisfactorily you can choose to print your part:&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/xgTEGdsh.jpg" alt="" style="width: 400px;"/&gt;
+&lt;!-- &lt;img alt="" src="http://i.imgur.com/xgTEGdsh.jpg" /&gt; --&gt;&lt;/p&gt;
+&lt;p&gt;Which ends up looking like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/vCxEIl5h.jpg" alt="" style="width: 400px;"/&gt;
+&lt;!-- &lt;img alt="" src="http://i.imgur.com/vCxEIl5h.jpg" /&gt; --&gt;&lt;/p&gt;
+&lt;p&gt;You are, no doubt, curious as to how this all works. I'd love to tell
+you, but first we need to understand the basics. Namely, what does
+making a 3D model entail? Conceptually, it's pretty easy - you take a
+picture, figure out what you want the model to look like, and draw
+triangles on the model until it's all covered, like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://i.imgur.com/GsmBodl.jpg" alt="This is grabbed from an
+open-source program called MeshLab." style="width: 400px;"/&gt;
+&lt;!-- &lt;img alt="This is grabbed from an open-source program called MeshLab." src="http://i.imgur.com/GsmBodl.jpg" /&gt; --&gt;&lt;/p&gt;
+&lt;p&gt;Once you have that, you can cut it into thin horizontal slices; then
+you can write instructions to tell the printer how to move on each
+layer. This process is called &lt;em&gt;toolpath generation&lt;/em&gt; or &lt;em&gt;slicing&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;However, the devil is in the details. We tried several different ways
+of making models, which can be lumped into one of two categories:
+path-based and image-based.&lt;/p&gt;
+&lt;p&gt;We started with a path-based method, which works like this: we track
+the path the finger traces across the screen. Then we draw two paths
+on either side, marking the bottom edges of the model. Then we play
+connect-the-dots and make the triangles for the bottom face. Next we
+make a copy of the bottom and move it up to make the top
+face. Finally, we connect the top and bottom faces to each other to
+make the sides. Ta-da!&lt;/p&gt;
+&lt;p&gt;This runs into some problems, though, when the path crosses over
+itself. We end up with some triangles inside the model! The internal
+triangles make it hard to determine the border of each slice. This
+really messes with your toolpaths. We decided to try to detect the
+self-intersections. This worked by checking each edge against each
+other edge to see if they crossed. This is slow - when you start
+drawing complex pictures, the brush noticeably lags behind your finger
+as we accumulate more edges to check.&lt;/p&gt;
+&lt;p&gt;While trying to fix the code we started thinking about other
+approaches. What if we took a screenshot and turned that into a 3D
+model? We'd avoid the self-intersecting paths altogether - once you
+have painted an area black, it doesn't matter if you go over it
+again. It will still be black. It will be black until the end-times,
+no matter how many times you draw over it. This was really exciting!
+So we started hacking on it.&lt;/p&gt;
+&lt;p&gt;Soon we had something that kind of worked. The idea is pretty simple:
+you look at each pixel in the picture, keeping track of how dark each
+pixel is. This will correspond to height later. Each pixel has a 2D
+position already. You can put that together with the heights you just
+found to get a bunch of 3D points. Then you draw a bunch of triangles
+in a giant game of connect-the-three-dimensional-dots, and voila! You
+have a 3D model!&lt;/p&gt;
+&lt;p&gt;This method makes a lot of triangles. In fact, it makes about 10 times
+as many as the last one. This means it's 10 times bigger, 10 times
+harder to send over the Internet, 10 times harder to slice. To
+alleviate these problems, we shrunk down the resolution of the images,
+but ran into another snag: at such low resolutions, the beautiful,
+organic curves (sensuous, even) that people were drawing became jagged
+pixelated blocks. That can be helpful if you are trying to print out
+characters from Super Mario, but that's not exactly what we want.  We
+tried to find a happy medium between slow and pretty, but it wasn't
+there.&lt;/p&gt;
+&lt;p&gt;Now we've hacked together another solution. The benefit of the
+path-based approach is that the model itself is much smaller and
+simpler; the benefit of the image-based approach is that we don't have
+to deal with self-intersecting curves. A hybrid solution gets us both
+of these. The app sends us a picture of what the user has drawn. Then
+we use a nice program called
+&lt;a href="http://potrace.sourceforge.net/"&gt;potrace&lt;/a&gt; to trace the edges of the
+drawing. From there, we connect the dots and get a model which is as
+simple and smooth as a path-based one without any of the
+self-intersection issues.&lt;/p&gt;
+&lt;p&gt;Of course, there's still ways to improve. I'm working on an extension
+to this hybrid method that will let you use different shades of grey
+in your drawing to indicate different thicknesses. We can trace those
+edges with potrace to get the profile of each slice. Then we can stack
+them on top of each other to create the model. This lets you make
+things that are bumpy on top. You'd &lt;em&gt;really&lt;/em&gt; be getting somewhere.&lt;/p&gt;
+&lt;p&gt;Astute readers may notice that we don't need to turn the picture into
+triangles to make toolpaths. All the printer does is fill in one
+horizontal slice of the object and move up, so if we know what each
+slice looks like we can make toolpaths straight from that. Luckily,
+the different levels of grey represent exactly that! Instead of
+stacking the slices, turning that into triangles, then slicing up the
+triangles again, we can skip that middle step. This business of
+translating between slices and triangles gets into deep waters very
+quickly, though, and deserves its own post.&lt;/p&gt;</summary><category term="3D printing"></category><category term="code"></category></entry></feed>
