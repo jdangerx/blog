@@ -18,12 +18,12 @@ here are some of the construct-y items from my page.&lt;/p&gt;
 per head, 30 bonus points if they can move unaided, 10 bonus bonus
 points if it is tearing apart a small ship]&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;center&gt;
-&lt;img src="../static/images/scav/lamp.jpg" alt="" style="width: 400px;"/&gt;
+&lt;img src="jdangerx.github.io/blog/static/images/scav/lamp.jpg" alt="" style="width: 400px;"/&gt;
 &lt;/center&gt;&lt;/p&gt;
 &lt;p&gt;The mechanism was inspired by some toys I saw in China that looked like
 this:&lt;/p&gt;
 &lt;p&gt;&lt;center&gt;
-&lt;img src="../static/images/scav/chicken-toy.jpg" alt="" style="width: 400px;"/&gt;
+&lt;img src="jdangerx.github.io/blog/static/images/scav/chicken-toy.jpg" alt="" style="width: 400px;"/&gt;
 &lt;/center&gt;&lt;/p&gt;
 &lt;p&gt;You swing the ball around, changing how much string goes to each chicken's
 head. This moves them up and down.&lt;/p&gt;
@@ -55,7 +55,7 @@ will be judged both on the quality of the cocktails and the musicality
 of their recipes. [250 points, 25 extra points if your keyboard can
 play a different melody to create a different drink]&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;center&gt;
-&lt;img src="../static/images/scav/pianoclose.jpg" alt="" style="width: 400px;"/&gt;&lt;/p&gt;
+&lt;img src="jdangerx.github.io/blog/static/images/scav/pianoclose.jpg" alt="" style="width: 400px;"/&gt;&lt;/p&gt;
 &lt;p&gt;It's a little bit hacked together.
 &lt;/center&gt;&lt;/p&gt;
 &lt;p&gt;I mounted plastic bottles filled with liquor (or mixer) on short axles so their
@@ -73,7 +73,7 @@ rather see something a little more neo-Gothic. Produce a map of the U
 of C campus that when triggered erects a clockwork version of a campus
 building of your choice. [175 points]&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;center&gt;
-&lt;img src="../static/images/scav/map.jpg" alt="" style="width: 400px;"/&gt;&lt;/p&gt;
+&lt;img src="jdangerx.github.io/blog/static/images/scav/map.jpg" alt="" style="width: 400px;"/&gt;&lt;/p&gt;
 &lt;p&gt;One of many things we did not have time to make was a stand to hold it up.
 &lt;/center&gt;&lt;/p&gt;
 &lt;p&gt;We had to present this at 9:00 AM on Sunday. So, naturally, we started at 6:00
@@ -181,8 +181,8 @@ between the drawing and the water. It'd be less "pure".&lt;/p&gt;</summary><cate
 &lt;a href="http://www.missionst.com/"&gt;Mission St. Manufacturing&lt;/a&gt;. We're a 3D
 printing company that's trying to streamline 3D printing. If you're
 not familiar with 3D printers, imagine building up an object with a
-hot glue gun, carefully squeezing out layer upon layer of plastic. Now
-imagine a robot doing that.&lt;/p&gt;
+hot glue gun, carefully squeezing out layer upon layer of
+plastic. That is exactly what a 3D printer does.&lt;/p&gt;
 &lt;p&gt;One of the problems we are fixing is that you have to jump through a
 ton of hoops to print something. Making a 3D model is hard. Once you
 have a model you have to turn that into instructions for your printer,
@@ -194,21 +194,31 @@ make simple 3D modeling &lt;em&gt;really&lt;/em&gt; simple.  We've got a few in 
 works. Let's take a look at one that turns your finger drawings into
 real things that you can hold. Its code name is FourthApp.&lt;/p&gt;
 &lt;p&gt;First you draw something. It's kind of like Paint. No spray-can, though.&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://i.imgur.com/3Ve1p3b.jpg" alt="" style="width: 400px;"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;
+&lt;img src="http://i.imgur.com/3Ve1p3b.jpg" alt="" style="width: 400px;"/&gt;
+&lt;/center&gt;&lt;/p&gt;
 &lt;p&gt;Then you hit print preview. We turn it into a 3D model and send it
 back down for your perusal:&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://i.imgur.com/ufGNaMuh.jpg" alt="" style="width: 400px;"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;
+&lt;img src="http://i.imgur.com/ufGNaMuh.jpg" alt="" style="width: 400px;"/&gt;
+&lt;/center&gt;&lt;/p&gt;
 &lt;p&gt;If it turns out satisfactorily you can choose to print your part:&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://i.imgur.com/xgTEGdsh.jpg" alt="" style="width: 400px;"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;
+&lt;img src="http://i.imgur.com/xgTEGdsh.jpg" alt="" style="width: 400px;"/&gt;
+&lt;/center&gt;&lt;/p&gt;
 &lt;p&gt;Which ends up looking like this:&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://i.imgur.com/vCxEIl5h.jpg" alt="" style="width: 400px;"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;
+&lt;img src="http://i.imgur.com/vCxEIl5h.jpg" alt="" style="width: 400px;"/&gt;
+&lt;/center&gt;&lt;/p&gt;
 &lt;p&gt;You are, no doubt, curious as to how this all works. I'd love to tell
 you, but first we need to understand the basics. Namely, what does
 making a 3D model entail? Conceptually, it's pretty easy - you take a
 picture, figure out what you want the model to look like, and draw
 triangles on the model until it's all covered, like this:&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://i.imgur.com/GsmBodl.jpg" alt="This is grabbed from an
-open-source program called MeshLab." style="width: 400px;"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;
+&lt;img src="http://i.imgur.com/GsmBodl.jpg" alt="This is grabbed from an
+open-source program called MeshLab." style="width: 400px;"/&gt;
+&lt;/center&gt;&lt;/p&gt;
 &lt;p&gt;Once you have that, you can cut it into thin horizontal slices; then
 you can write instructions to tell the printer how to move on each
 layer. This process is called &lt;em&gt;toolpath generation&lt;/em&gt; or &lt;em&gt;slicing&lt;/em&gt;.&lt;/p&gt;
