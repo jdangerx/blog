@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>NO PROMISES</title><link href="http://jdangerx.github.io/blog/" rel="alternate"></link><link href="http://jdangerx.github.io/blog/feeds/hardware.atom.xml" rel="self"></link><id>http://jdangerx.github.io/blog/</id><updated>2013-08-31T00:00:00-07:00</updated><entry><title>Tensegrity</title><link href="http://jdangerx.github.io/blog/tensegrity.html" rel="alternate"></link><updated>2013-08-31T00:00:00-07:00</updated><author><name>John Xia</name></author><id>tag:jdangerx.github.io/blog,2013-08-31:tensegrity.html</id><summary type="html">&lt;p&gt;One day I was reminiscing about my childhood and remembered seeing a cool
-sculpture made only with steel tubes and cable. A bit of Googling revealed that
-this was a
-&lt;a href="https://en.wikipedia.org/wiki/Tensegrity"&gt;tensegrity structure&lt;/a&gt;. Tensegrity is
-cool because it uses cables and rods to make a stiff structure without having
-the rods touch each other.&lt;/p&gt;
-&lt;p&gt;I decided that I would make one myself. So for the next week or so, I got a few
-forks every time I went to the dining hall. Some fishing-line and some dremeling ensued, and here is the result!&lt;/p&gt;
-&lt;p&gt;&lt;center&gt;
-&lt;img src="http://jdangerx.github.io/blog/static/images/tensegrity/tensegrity.jpg" alt="" style="width: 400px;"/&gt;
-&lt;/center&gt;&lt;/p&gt;</summary><category term="art"></category></entry><entry><title>Bamboo Bike</title><link href="http://jdangerx.github.io/blog/bamboo-bike.html" rel="alternate"></link><updated>2013-08-30T00:00:00-07:00</updated><author><name>John Xia</name></author><id>tag:jdangerx.github.io/blog,2013-08-30:bamboo-bike.html</id><summary type="html">&lt;p&gt;In high school I built some bamboo bikes. The second one broke and I rebuilt it.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>NO PROMISES</title><link href="http://jdangerx.github.io/blog/" rel="alternate"></link><link href="http://jdangerx.github.io/blog/feeds/hardware.atom.xml" rel="self"></link><id>http://jdangerx.github.io/blog/</id><updated>2013-09-05T00:00:00-07:00</updated><entry><title>Bamboo Bike</title><link href="http://jdangerx.github.io/blog/bamboo-bike.html" rel="alternate"></link><updated>2013-09-05T00:00:00-07:00</updated><author><name>John Xia</name></author><id>tag:jdangerx.github.io/blog,2013-09-05:bamboo-bike.html</id><summary type="html">&lt;p&gt;In high school I built some bamboo bikes. The second one broke and I rebuilt it.&lt;/p&gt;
 &lt;p&gt;Here are their stories.&lt;/p&gt;
 &lt;h2&gt;v0.1&lt;/h2&gt;
 &lt;p&gt;One day I was biking with my friend Chris. I said to him that we should build a
@@ -70,7 +60,17 @@ of the joints.&lt;/p&gt;
 joined the bamboo - forming the joints with smooth Bondo, using small bamboo
 gussets, etc. The idea is to minimize the probability of kinks and air pockets
 in the fiber by making the joint as smooth as possible. I'll have to test to see
-which method works best.&lt;/p&gt;</summary><category term="bicycles"></category></entry><entry><title>Scav Highlights Through The Years</title><link href="http://jdangerx.github.io/blog/scav-highlights-through-the-years.html" rel="alternate"></link><updated>2013-08-30T00:00:00-07:00</updated><author><name>John Xia</name></author><id>tag:jdangerx.github.io/blog,2013-08-30:scav-highlights-through-the-years.html</id><summary type="html">&lt;h1&gt;Introduction&lt;/h1&gt;
+which method works best.&lt;/p&gt;</summary><category term="bicycles"></category></entry><entry><title>Tensegrity</title><link href="http://jdangerx.github.io/blog/tensegrity.html" rel="alternate"></link><updated>2013-08-31T00:00:00-07:00</updated><author><name>John Xia</name></author><id>tag:jdangerx.github.io/blog,2013-08-31:tensegrity.html</id><summary type="html">&lt;p&gt;One day I was reminiscing about my childhood and remembered seeing a cool
+sculpture made only with steel tubes and cable. A bit of Googling revealed that
+this was a
+&lt;a href="https://en.wikipedia.org/wiki/Tensegrity"&gt;tensegrity structure&lt;/a&gt;. Tensegrity is
+cool because it uses cables and rods to make a stiff structure without having
+the rods touch each other.&lt;/p&gt;
+&lt;p&gt;I decided that I would make one myself. So for the next week or so, I got a few
+forks every time I went to the dining hall. Some fishing-line and some dremeling ensued, and here is the result!&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;
+&lt;img src="http://jdangerx.github.io/blog/static/images/tensegrity/tensegrity.jpg" alt="" style="width: 400px;"/&gt;
+&lt;/center&gt;&lt;/p&gt;</summary><category term="art"></category></entry><entry><title>Scav Highlights Through The Years</title><link href="http://jdangerx.github.io/blog/scav-highlights-through-the-years.html" rel="alternate"></link><updated>2013-08-30T00:00:00-07:00</updated><author><name>John Xia</name></author><id>tag:jdangerx.github.io/blog,2013-08-30:scav-highlights-through-the-years.html</id><summary type="html">&lt;h1&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;Every year, I partake in a four-day journey into madness called Scav (short for
 the University of Chicago Scavenger Hunt). There are several teams of a few
 dozen each; on the Wednesday night before Mother's Day we gather to receive the
