@@ -9,7 +9,68 @@ the rods touch each other.&lt;/p&gt;
 forks every time I went to the dining hall. Some fishing-line and some dremeling ensued, and here is the result!&lt;/p&gt;
 &lt;p&gt;&lt;center&gt;
 &lt;img src="http://jdangerx.github.io/blog/static/images/tensegrity/tensegrity.jpg" alt="" style="width: 400px;"/&gt;
-&lt;/center&gt;&lt;/p&gt;</summary><category term="art"></category></entry><entry><title>Scav Highlights Through The Years</title><link href="http://jdangerx.github.io/blog/scav-highlights-through-the-years.html" rel="alternate"></link><updated>2013-08-30T00:00:00-07:00</updated><author><name>John Xia</name></author><id>tag:jdangerx.github.io/blog,2013-08-30:scav-highlights-through-the-years.html</id><summary type="html">&lt;h1&gt;Introduction&lt;/h1&gt;
+&lt;/center&gt;&lt;/p&gt;</summary><category term="art"></category></entry><entry><title>Bamboo Bike</title><link href="http://jdangerx.github.io/blog/bamboo-bike.html" rel="alternate"></link><updated>2013-08-30T00:00:00-07:00</updated><author><name>John Xia</name></author><id>tag:jdangerx.github.io/blog,2013-08-30:bamboo-bike.html</id><summary type="html">&lt;p&gt;In high school I built some bamboo bikes. The second one broke and I rebuilt it.&lt;/p&gt;
+&lt;p&gt;Here are their stories.&lt;/p&gt;
+&lt;h2&gt;v0.1&lt;/h2&gt;
+&lt;p&gt;One day I was biking with my friend Chris. I said to him that we should build a
+bamboo bike in the summer. He said that that was a great idea and that we should
+do it.&lt;/p&gt;
+&lt;p&gt;When summer started we bummed for bike parts around Palo Alto.&lt;/p&gt;
+&lt;p&gt;Somebody gave us an old frame that had been in a crash.&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;
+&lt;img src="http://jdangerx.github.io/blog/static/images/bamboo-bike/broken-frame.jpg" alt="" style="width: 400px;"/&gt;
+&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;We sawed the joints off.&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;
+&lt;img src="http://jdangerx.github.io/blog/static/images/bamboo-bike/joints.jpg" alt="" style="width: 400px;"/&gt;
+&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;Then we went to a bamboo garden in the hills and got some bamboo.&lt;/p&gt;
+&lt;p&gt;We heat-treated the bamboo, which both dries the bamboo and strengthens it. Then
+we cut it into appropriate lengths and fit them onto the steel joints.&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;
+&lt;img src="http://jdangerx.github.io/blog/static/images/bamboo-bike/v01-layout.jpg" alt="" style="width: 400px;"/&gt;
+&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;The bamboo was loose on the steel tubes, so we filled the space with expanding
+foam. Then we mixed up some epoxy resin, soaked twine in it, and wrapped
+that around the joints to strengthen them.&lt;/p&gt;
+&lt;p&gt;The final product had some pretty wonky geometry, which was totally
+different from what we had laid out earlier:&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;
+&lt;img src="http://jdangerx.github.io/blog/static/images/bamboo-bike/finished-v01.jpg" alt="" style="width: 400px;"/&gt;
+&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;The bottom bracket holder was very low to the ground, resulting in low ground
+clearance. I had to be very careful to avoid pedal strike. I resolved to use a
+jig the next time around.&lt;/p&gt;
+&lt;h2&gt;v0.2&lt;/h2&gt;
+&lt;p&gt;The next summer, having learned many lessons, I built another bike.&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;
+&lt;img src="http://jdangerx.github.io/blog/static/images/bamboo-bike/finished-v02.jpg" alt="" style="width: 400px;"/&gt;
+&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;I was happy enough to make an
+&lt;a href="http://www.instructables.com/id/Bamboo-Bike-Frame/"&gt;Instructable&lt;/a&gt; about the
+build process.&lt;/p&gt;
+&lt;p&gt;I rode this daily for several months, then one day the bottom bracket joint
+snapped as I was crossing a street. So I started thinking about the next one.&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;
+&lt;img src="http://jdangerx.github.io/blog/static/images/bamboo-bike/riding-v03.jpg" alt="" style="width: 400px;"/&gt;
+&lt;/center&gt;&lt;/p&gt;
+&lt;h2&gt;v0.3&lt;/h2&gt;
+&lt;p&gt;For this one I redid the joints that broke with carbon fiber:&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;
+&lt;img src="http://jdangerx.github.io/blog/static/images/bamboo-bike/finished-v03.jpg" alt="" style="width: 400px;"/&gt;
+&lt;/center&gt;&lt;/p&gt;
+&lt;p&gt;First I tacked the joints back together. Then I built up the joints with
+long-fiber Bondo, a two-part putty reinforced with fiberglass. I smoothed the
+Bondo out with a Dremel, and started laminating the joint with carbon fiber.&lt;/p&gt;
+&lt;p&gt;I found a vacuum pump, made an air filter with activated charcoal and a metal
+can, and bought some trash-bags. Then I was able to do some
+&lt;a href="http://ezinearticles.com/?Vacuum-Bagging-Carbon-Fiber-On-$50&amp;amp;id=674586"&gt;crude vacuum-bagging&lt;/a&gt;
+of the joints.&lt;/p&gt;
+&lt;p&gt;As I waited for the epoxy to cure, I thought of a couple other ways I could have
+joined the bamboo - forming the joints with smooth Bondo, using small bamboo
+gussets, etc. The idea is to minimize the probability of kinks and air pockets
+in the fiber by making the joint as smooth as possible. I'll have to test to see
+which method works best.&lt;/p&gt;</summary><category term="bicycles"></category></entry><entry><title>Scav Highlights Through The Years</title><link href="http://jdangerx.github.io/blog/scav-highlights-through-the-years.html" rel="alternate"></link><updated>2013-08-30T00:00:00-07:00</updated><author><name>John Xia</name></author><id>tag:jdangerx.github.io/blog,2013-08-30:scav-highlights-through-the-years.html</id><summary type="html">&lt;h1&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;Every year, I partake in a four-day journey into madness called Scav (short for
 the University of Chicago Scavenger Hunt). There are several teams of a few
 dozen each; on the Wednesday night before Mother's Day we gather to receive the
@@ -45,7 +106,9 @@ positions.&lt;/p&gt;
 &lt;h3&gt;The Eyes&lt;/h3&gt;
 &lt;p&gt;&lt;em&gt;40. Affix a pair of appropriately enormous googly eyes to the campus
 building of your choice. [8 points]&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt; images! &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;
+&lt;img src="http://jdangerx.github.io/blog/static/images/scav/eyes.jpg" alt="" style="width: 400px;"/&gt;
+&lt;/center&gt;&lt;/p&gt;
 &lt;p&gt;We had planned on dangling them off the edge of the tower with wires. I
 envisioned them swaying gently in the wind, pupils googling like mad for the
 world to see. Getting these up wasn't hard - we just went up the stairs. Once we
@@ -107,8 +170,7 @@ to the Franklin Institute. [150 points]&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;center&gt;
 &lt;img src="http://jdangerx.github.io/blog/static/images/scav/liver-whole.jpg" alt="" style="width: 400px;"/&gt;&lt;/p&gt;
 &lt;p&gt;Here we are, shooing people into the liver.
-&lt;/center&gt;
-&lt;strong&gt;images&lt;/strong&gt;&lt;/p&gt;
+&lt;/center&gt;&lt;/p&gt;
 &lt;p&gt;After much deliberation we settled on a liver. Because I like steel, we bought a
 ton of electrical conduit and bent it into a frame. It was much lighter and
 stiffer than a comparable wooden or PVC one. We covered it in about 80 feet of
