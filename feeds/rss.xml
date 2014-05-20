@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>John Xia is on the Internet</title><link href="http://www.johnxia.me/blog/" rel="alternate"></link><link href="http://www.johnxia.me/blog/feeds/all.atom.xml" rel="self"></link><id>http://www.johnxia.me/blog/</id><updated>2014-05-20T00:00:00-05:00</updated><entry><title>HvZ Catapult</title><link href="http://www.johnxia.me/blog/hvz-catapult.html" rel="alternate"></link><updated>2014-05-20T00:00:00-05:00</updated><author><name>John Xia</name></author><id>tag:www.johnxia.me/blog,2014-05-20:hvz-catapult.html</id><summary type="html">&lt;p&gt;For my last game of &lt;a href="http://www.uchicagohvz.org"&gt;Humans vs. Zombies&lt;/a&gt; I
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>John Xia is on the Internet</title><link>http://www.johnxia.me/blog/</link><description>A Multimedia Experience</description><atom:link href="http://www.johnxia.me/blog/feeds/rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 20 May 2014 00:00:00 -0500</lastBuildDate><item><title>HvZ Catapult</title><link>http://www.johnxia.me/blog/hvz-catapult.html</link><description>&lt;p&gt;For my last game of &lt;a href="http://www.uchicagohvz.org"&gt;Humans vs. Zombies&lt;/a&gt; I
 decided that I would do the dumbest thing possible. So I went to the
 wood shop, found some scrap, and built a back-mounted catapult that
 completely ineffectively launched socks. It was powered by HvZ
@@ -8,7 +8,7 @@ also added some rubber bands. You may notice that this was also when
 Twitch was Playing Pokemon Red.&lt;/p&gt;
 &lt;p&gt;&lt;img src="images/hvz-catapult/catapult-1.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="images/hvz-catapult/catapult-2.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="images/hvz-catapult/catapult-3.jpg"/&gt;&lt;/p&gt;</summary></entry><entry><title>Swingy Arm Thing</title><link href="http://www.johnxia.me/blog/swingy-arm-thing.html" rel="alternate"></link><updated>2014-05-19T00:00:00-05:00</updated><author><name>John Xia</name></author><id>tag:www.johnxia.me/blog,2014-05-19:swingy-arm-thing.html</id><summary type="html">&lt;p&gt;I was in an art class this last winter, and got to make a bunch of
+&lt;p&gt;&lt;img src="images/hvz-catapult/catapult-3.jpg"/&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Xia</dc:creator><pubDate>Tue, 20 May 2014 00:00:00 -0500</pubDate><guid>tag:www.johnxia.me/blog,2014-05-20:hvz-catapult.html</guid></item><item><title>Swingy Arm Thing</title><link>http://www.johnxia.me/blog/swingy-arm-thing.html</link><description>&lt;p&gt;I was in an art class this last winter, and got to make a bunch of
 stuff with &lt;a href="http://hannahgivler.com/"&gt;Hannah Givler&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This particular project is called "Module Matters". The prompt is to
 make a reproducible module that can be used as a building block or an
@@ -40,7 +40,7 @@ the 5/16" threaded rod I used for the axle. The arms were spaced out
 with washers between the bearings and secured with a nut on each end.&lt;/p&gt;
 &lt;p&gt;I hadn't thought much about the base. After a little discussion with
 my professor, I cobbled together some 2x4's and called it a day.&lt;/p&gt;
-&lt;p&gt;&lt;img src="images/swingy-arm-thing/finished.jpg"/&gt;&lt;/p&gt;</summary><category term="magnets"></category><category term="wood"></category></entry><entry><title>Bamboo Bike</title><link href="http://www.johnxia.me/blog/bamboo-bike.html" rel="alternate"></link><updated>2013-09-05T00:00:00-05:00</updated><author><name>John Xia</name></author><id>tag:www.johnxia.me/blog,2013-09-05:bamboo-bike.html</id><summary type="html">&lt;p&gt;In high school I built some bamboo bikes. The second one broke and I rebuilt it.&lt;/p&gt;
+&lt;p&gt;&lt;img src="images/swingy-arm-thing/finished.jpg"/&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Xia</dc:creator><pubDate>Mon, 19 May 2014 00:00:00 -0500</pubDate><guid>tag:www.johnxia.me/blog,2014-05-19:swingy-arm-thing.html</guid><category>magnets</category><category>wood</category></item><item><title>Bamboo Bike</title><link>http://www.johnxia.me/blog/bamboo-bike.html</link><description>&lt;p&gt;In high school I built some bamboo bikes. The second one broke and I rebuilt it.&lt;/p&gt;
 &lt;p&gt;Here are their stories.&lt;/p&gt;
 &lt;h3&gt;v0.1&lt;/h3&gt;
 &lt;p&gt;One day I was biking with my friend Chris. I said to him that we should build a
@@ -101,7 +101,7 @@ of the joints.&lt;/p&gt;
 joined the bamboo - forming the joints with smooth Bondo, using small bamboo
 gussets, etc. The idea is to minimize the probability of kinks and air pockets
 in the fiber by making the joint as smooth as possible. I'll have to test to see
-which method works best.&lt;/p&gt;</summary><category term="bicycles"></category></entry><entry><title>Tensegrity</title><link href="http://www.johnxia.me/blog/tensegrity.html" rel="alternate"></link><updated>2013-08-31T00:00:00-05:00</updated><author><name>John Xia</name></author><id>tag:www.johnxia.me/blog,2013-08-31:tensegrity.html</id><summary type="html">&lt;p&gt;One day I was reminiscing about my childhood and remembered seeing a cool
+which method works best.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Xia</dc:creator><pubDate>Thu, 05 Sep 2013 00:00:00 -0500</pubDate><guid>tag:www.johnxia.me/blog,2013-09-05:bamboo-bike.html</guid><category>bicycles</category></item><item><title>Tensegrity</title><link>http://www.johnxia.me/blog/tensegrity.html</link><description>&lt;p&gt;One day I was reminiscing about my childhood and remembered seeing a cool
 sculpture made only with steel tubes and cable. A bit of Googling revealed that
 this was a
 &lt;a href="https://en.wikipedia.org/wiki/Tensegrity"&gt;tensegrity structure&lt;/a&gt;. Tensegrity is
@@ -112,7 +112,7 @@ forks every time I went to the dining hall. Some fishing-line and some dremeling
 &lt;div class="img-wrapper"&gt;
 &lt;img src="images/tensegrity/tensegrity.jpg" style="height: 400px";/&gt;
 &lt;p class="caption"&gt;At the art festival in my dorm.&lt;/p&gt;
-&lt;/div&gt;</summary><category term='"art"'></category></entry><entry><title>Scav 2011-2013</title><link href="http://www.johnxia.me/blog/scav.html" rel="alternate"></link><updated>2013-08-30T00:00:00-05:00</updated><author><name>John Xia</name></author><id>tag:www.johnxia.me/blog,2013-08-30:scav.html</id><summary type="html">&lt;h3&gt;Introduction&lt;/h3&gt;
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Xia</dc:creator><pubDate>Sat, 31 Aug 2013 00:00:00 -0500</pubDate><guid>tag:www.johnxia.me/blog,2013-08-31:tensegrity.html</guid><category>"art"</category></item><item><title>Scav 2011-2013</title><link>http://www.johnxia.me/blog/scav.html</link><description>&lt;h3&gt;Introduction&lt;/h3&gt;
 &lt;p&gt;Every year, I partake in a four-day journey into madness called Scav (short for
 the University of Chicago Scavenger Hunt). There are several teams of a few
 dozen each; on the Wednesday night before Mother's Day we gather to receive the
@@ -233,7 +233,7 @@ style="width: 400px;"/&gt;&lt;/p&gt;
 &lt;h4&gt;The Aquagraphics Curtain&lt;/h4&gt;
 &lt;p&gt;&lt;em&gt;208. An aquagraphic-style water curtain that displays your team name or
 logo. [250 points]&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://http://jdangerx.github.io/blog/208.html"&gt;See my other post.&lt;/a&gt;&lt;/p&gt;</summary><category term="scav"></category></entry><entry><title>FourthApp</title><link href="http://www.johnxia.me/blog/fourth-app.html" rel="alternate"></link><updated>2013-08-13T00:00:00-05:00</updated><author><name>John Xia</name></author><id>tag:www.johnxia.me/blog,2013-08-13:fourth-app.html</id><summary type="html">&lt;p&gt;I'm currently an intern at
+&lt;p&gt;&lt;a href="http://http://jdangerx.github.io/blog/208.html"&gt;See my other post.&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Xia</dc:creator><pubDate>Fri, 30 Aug 2013 00:00:00 -0500</pubDate><guid>tag:www.johnxia.me/blog,2013-08-30:scav.html</guid><category>scav</category></item><item><title>FourthApp</title><link>http://www.johnxia.me/blog/fourth-app.html</link><description>&lt;p&gt;I'm currently an intern at
 &lt;a href="http://www.missionst.com/"&gt;Mission St. Manufacturing&lt;/a&gt;. We're a 3D
 printing company that's trying to streamline 3D printing. If you're
 not familiar with 3D printers, imagine building up an object with a
@@ -344,4 +344,4 @@ the different levels of grey represent exactly that! Instead of
 stacking the slices, turning that into triangles, then slicing up the
 triangles again, we can skip that middle step. This business of
 translating between slices and triangles gets into deep waters very
-quickly, though, and deserves its own post.&lt;/p&gt;</summary><category term="3D printing"></category><category term="code"></category></entry></feed>
+quickly, though, and deserves its own post.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Xia</dc:creator><pubDate>Tue, 13 Aug 2013 00:00:00 -0500</pubDate><guid>tag:www.johnxia.me/blog,2013-08-13:fourth-app.html</guid><category>3D printing</category><category>code</category></item></channel></rss>
