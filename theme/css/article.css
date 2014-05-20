@@ -1,0 +1,17 @@
+.img-wrapper {
+    float:center;
+    width:100%;
+    margin: 1em;
+}
+
+.caption {
+    text-align: center;
+    font-size: small;
+}
+
+img {
+    max-width:60%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
