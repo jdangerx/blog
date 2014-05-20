@@ -1,7 +1,7 @@
 html, body {
     background: #CCCCCC;
     margin: 5% 10% 5% 10%;
-    font-size: 1.5vw;
+    font-size: 1.6vw;
     color: #333333;
     line-height:180%;
 }
@@ -13,7 +13,7 @@ h3 {font-size: 1.8vw;}
 #banner h1 {
     text-align: center;
     font-family: 'Source Sans Pro', sans-serif; font-weight:700;
-    font-size: 4vw;
+    font-size: 5vw;
 }
 
 a {

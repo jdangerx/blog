@@ -1,18 +1,12 @@
 #post-list {
     line-height: 0;
-    /* -webkit-column-gap: 0px; */
-    /* -moz-column-gap: 0px; */
-    /* column-gap: 0px; */
-
-    /* -webkit-column-count: 2; */
-    /* -moz-column-count: 2; */
-    /* column-count: 2; */
 }
 
 .item {
     width:33%;
     margin: 0;
 }
+
 #post-list img {
     width: 100%;
     opacity: 0.7;
