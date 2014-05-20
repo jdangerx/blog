@@ -1,14 +1,17 @@
-#post-list {
-    line-height: 0;
-    -webkit-column-count: 5;
-    -webkit-column-gap: 0px;
-    -moz-column-count: 5;
-    -moz-column-gap: 0px;
-    column-count: 5;
-    column-gap: 0px;
+html, body {
+    background: #888888;
+    margin: 5%;
 }
 
-#post-list img {
-    width: 100% !important;
-    height: auto !important;
+#banner h1 {
+    text-align: center;
+}
+
+#banner a {
+    color: #222244;
+    text-decoration: none;
+}
+
+#banner a:hover {
+    color: #AAAACC;
 }
