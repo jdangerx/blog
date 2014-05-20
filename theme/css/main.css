@@ -1,10 +1,12 @@
 html, body {
-    background: #888888;
-    margin: 5%;
+    background: #CCCCCC;
+    margin: 5% 10% 5% 10%;
 }
 
-#banner h1 {
+#banner {
     text-align: center;
+    font-family: 'Source Sans Pro', sans-serif; font-weight:700;
+    font-size: 30px;
 }
 
 #banner a {
@@ -13,5 +15,5 @@ html, body {
 }
 
 #banner a:hover {
-    color: #AAAACC;
+    color: #333355;
 }

@@ -1,14 +1,14 @@
 #post-list {
     line-height: 0;
-    -webkit-column-count: 3;
     -webkit-column-gap: 0px;
-    -moz-column-count: 3;
     -moz-column-gap: 0px;
-    column-count: 3;
     column-gap: 0px;
-    /* border: 1px solid #333333; */
-    /* padding: 1px; */
+
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
 }
+
 
 #post-list img {
     width: 100% !important;
@@ -29,6 +29,7 @@
 }
 
 #post-list .text {
+    font-family: 'Source Sans Pro', sans-serif; font-weight:400;
     position: relative;
     bottom: 30px;
     /* left: 30px; */
