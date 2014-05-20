@@ -24,3 +24,7 @@ a {
 a:hover {
     color: #773344;
 }
+
+footer {
+    font-size: 1vw;
+}

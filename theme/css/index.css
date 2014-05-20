@@ -30,11 +30,10 @@
     position: relative;
     bottom: 30px;
     text-shadow: 0 0 1em #000000, 0 0 1em #333333;
-    text-overflow: ellipsis;
     white-space: nowrap;
     text-align: center;
     color: #FFFFFF;
-    font-size: 2vmin;
+    font-size: 3vmin;
     opacity: 0;
     word-wrap: break-word;
     -moz-transition: opacity 0.5s ease-in-out;
