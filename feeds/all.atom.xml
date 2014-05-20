@@ -8,19 +8,19 @@ also added some rubber bands. You may notice that this was also when
 Twitch was Playing Pokemon Red.&lt;/p&gt;
 &lt;p&gt;&lt;img src="images/hvz-catapult/catapult-1.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="images/hvz-catapult/catapult-2.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="images/hvz-catapult/catapult-3.jpg"/&gt;&lt;/p&gt;</summary></entry><entry><title>Water Blob</title><link href="http://www.johnxia.me/blog/water-blob.html" rel="alternate"></link><updated>2014-05-20T00:00:00-05:00</updated><author><name>John Xia</name></author><id>tag:www.johnxia.me/blog,2014-05-20:water-blob.html</id><summary type="html">&lt;p&gt;&lt;img src="http://jdangerx.io/blog/images/water-blob/projection-far.jpg"&gt;
+&lt;p&gt;&lt;img src="images/hvz-catapult/catapult-3.jpg"/&gt;&lt;/p&gt;</summary></entry><entry><title>Water Blob</title><link href="http://www.johnxia.me/blog/water-blob.html" rel="alternate"></link><updated>2014-05-20T00:00:00-05:00</updated><author><name>John Xia</name></author><id>tag:www.johnxia.me/blog,2014-05-20:water-blob.html</id><summary type="html">&lt;p&gt;&lt;img src="http://jdangerx.github.io/blog/images/water-blob/projection-far.jpg"&gt;
 This quarter I am in &lt;a href="http://www.salavon.com"&gt;Jason Salavon&lt;/a&gt;'s Data
 and Algorithm in Art class. This is a group project I did with
 &lt;a href="http://clarekoury.tumblr.com"&gt;Clare Koury&lt;/a&gt; and Rebeca Carillo.&lt;/p&gt;
 &lt;p&gt;We hooked up a PC fan to an Arduino and had it pulse briefly every
 couple seconds. The fan had a magnet attached to it.&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://jdangerx.io/blog/images/water-blob/pool-side.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://jdangerx.github.io/blog/images/water-blob/pool-side.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;On top of the fan we put a CD spindle with some
 &lt;a href="http://www.instructables.com/id/Making-Rheoscopic-Fluid/?ALLSTEPS"&gt;rheoscopic fluid&lt;/a&gt;
 in it. To agitate the liquid we used
 &lt;a href="http://shapelock.com/"&gt;Shapelock&lt;/a&gt; to encase another magnet. Basically
 we made a magnetic stirrer that only worked part of the time.&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://jdangerx.io/blog/images/water-blob/pool-top.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://jdangerx.github.io/blog/images/water-blob/pool-top.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;Here is a video of me discovering that the fan goes too fast for the
 magnetic coupling. We solved this by pulsing the fan for about 40ms.&lt;/p&gt;
 &lt;iframe width="420" height="315"
@@ -34,9 +34,9 @@ surprising, I thought, so when people thought it had artistic merit as
 well I was doubly suprised.&lt;/p&gt;
 &lt;p&gt;Video:
 &lt;iframe width="560" height="315" src="//www.youtube.com/embed/yCI13KS8Hrw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;Additional images:
-&lt;img src="http://jdangerx.io/blog/images/water-blob/long-view.jpg"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://jdangerx.io/blog/images/water-blob/apparatus.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;Additgithub.ional images:
+&lt;img src="http://jdangerx.github.io/blog/images/water-blob/long-view.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://jdangerx.github.io/blog/images/water-blob/apparatus.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;Pictures courtesy of Clare Koury.&lt;/p&gt;</summary></entry><entry><title>Swingy Arm Thing</title><link href="http://www.johnxia.me/blog/swingy-arm-thing.html" rel="alternate"></link><updated>2014-05-19T00:00:00-05:00</updated><author><name>John Xia</name></author><id>tag:www.johnxia.me/blog,2014-05-19:swingy-arm-thing.html</id><summary type="html">&lt;p&gt;I was in an art class this last winter, and got to make a bunch of
 stuff with &lt;a href="http://hannahgivler.com/"&gt;Hannah Givler&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This particular project is called "Module Matters". The prompt is to
