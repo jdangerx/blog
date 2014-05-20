@@ -11,11 +11,10 @@
 
 .item {
     width:33%;
-    margin: 0;
 }
 #post-list img {
     width: 100%;
-    opacity: 0.7;
+    opacity: 0.5;
     -moz-backface-visibility: hidden;
     -moz-transition: opacity 0.5s ease-in-out;
     -webkit-transition: opacity 0.5s ease-in-out;
@@ -31,16 +30,16 @@
 }
 
 #post-list .text {
-    width: 100%;
     font-family: 'Source Sans Pro', sans-serif; font-weight:400;
     position: relative;
     bottom: 30px;
-    text-shadow: 0 0 1em #000000, 0 0 1em #333333;
+    /* left: 30px; */
+    /* display: inline-block; */
+    text-shadow: 0 0 1em #333333, 0 0 1em #333333;
     text-overflow: ellipsis;
-    white-space: nowrap;
     text-align: center;
     color: #FFFFFF;
-    font-size: 2vmin;
+    font-size: 20px;
     opacity: 0;
     word-wrap: break-word;
     -moz-transition: opacity 0.5s ease-in-out;
@@ -49,7 +48,7 @@
 }
 
 
-#post-list .item:hover .text {
+#post-list .image-wrapper:hover .text {
     visibility: visible;
     opacity: 0.9;
     -moz-transition: opacity 0.5s ease-in-out;
