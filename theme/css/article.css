@@ -5,7 +5,13 @@ img {
     align:middle;
 }
 
+/* .vid-wrapper { */
+    /* text-align: middle; */
+/* } */
+
 iframe {
+    display:block;
+    margin: auto;
     align: middle;
 }
 
