@@ -34,6 +34,7 @@
     bottom: 30px;
     /* left: 30px; */
     /* display: inline-block; */
+    text-shadow: 0.1em 0.1em 0.3em black;
     text-overflow: ellipsis;
     text-align: center;
     color: #FFFFFF;
