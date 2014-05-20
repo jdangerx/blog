@@ -15,6 +15,9 @@
 @import url(http://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,600,600italic,700,700italic);
 @import url(http://fonts.googleapis.com/css?family=Droid+Sans+Mono);
 /***** Global *****/
+img{
+	border:1px solid #eaeaea;
+}
 /* Body */
 body {
     background: #FDF6E3;
