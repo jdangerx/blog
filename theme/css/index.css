@@ -3,7 +3,7 @@
 }
 
 .item {
-    width:33%;
+    width: 33%;
     margin: 0;
 }
 
@@ -26,16 +26,22 @@
 
 #post-list .text {
     width: 100%;
-    font-family: 'Source Sans Pro', sans-serif; font-weight:400;
-    position: relative;
-    bottom: 30px;
-    white-space: nowrap;
-    text-shadow: 0 0 1em #000000, 0 0 1em #333333;
     text-align: center;
+    vertical-align: middle;
+    position: absolute;
+    top: 0;
+    line-height: normal;
+
+    background: rgba(32, 32, 32, 0.5);
+
+    font-family: 'Source Sans Pro', sans-serif; font-weight:400;
     color: #FFFFFF;
-    font-size: 1.6vw;
-    opacity: 0;
+    font-size: 2vw;
+
+    text-shadow: 0 0 1em #000000, 0 0 1em #333333;
     word-wrap: break-word;
+
+    opacity: 0;
     -moz-transition: opacity 0.5s ease-in-out;
     -webkit-transition: opacity 0.5s ease-in-out;
     transition: opacity 0.5s ease-in-out;
