@@ -5,3 +5,7 @@ var msnry = new Masonry( container, {
   itemSelector: '.item',
   gutter: 0,
 });
+
+window.onload = function () {
+  msnry.layout();
+}
