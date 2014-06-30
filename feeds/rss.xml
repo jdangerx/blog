@@ -1,5 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>John Xia is on the Internet</title><link>http://www.johnxia.me/blog/</link><description>A Multimedia Experience</description><atom:link href="http://www.johnxia.me/blog/feeds/rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 20 May 2014 11:30:00 -0500</lastBuildDate><item><title>Ordered and Indetermined</title><link>http://www.johnxia.me/blog/ordered-indetermined.html</link><description>&lt;p&gt;Another project for my Data and Algorithms in Art class was to make
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>John Xia is on the Internet</title><link>http://www.johnxia.me/blog/</link><description>A Multimedia Experience</description><atom:link href="http://www.johnxia.me/blog/feeds/rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 29 Jun 2014 00:00:00 -0500</lastBuildDate><item><title>Animusic</title><link>http://www.johnxia.me/blog/animusic.html</link><description>&lt;p&gt;This year for the
+&lt;a href="http://scavhunt.uchicago.edu/list2014_2final.pdf"&gt;Scavenger Hunt&lt;/a&gt; I
+mostly worked on this item:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;49. Bring us an Animusic-style instrument that plays itself. Once
+activated, it should perform, unaided, a composition of no less than
+90 seconds. While your device may have electronic components, it must
+not produce electronic
+music. [175 points. 50 bonus points if the music is played by multiple distinct mechanisms that join in gradually as it proceeds]&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I saw this item at around 3 in the morning on Thursday, a few hours
+after the craziness of list release. It grabbed my attention, both
+because I knew I was expected to do it and because instruments have
+fascinated me for some time, though I'd never gathered the gumption to
+make anything more than a simple didgeridoo. So I cast around in my
+mind for ideas on how to make something like this in the next few
+days. First I had to know what the judges wanted, so I looked up the
+source material on YouTube:&lt;/p&gt;
+&lt;iframe width="560" height="315" src="//www.youtube.com/embed/hyCIpKAIFyo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Clearly, I needed some sort of mechanical actuator. Luckily, I had
+kept some solenoids from my failed attempt at a water curtain
+in 2013. Another quick YouTube search confirmed that it was possible
+for solenoids to hit things hard enough to make sounds. Unfortunately
+the solenoids I had were pulling solenoids, which are not optimal for
+striking things. So I modeled a simple lever that the solenoid could
+pull on, and a mount to keep everything in line.&lt;/p&gt;
+&lt;p&gt;I cut them out the next morning on the lasercutter at the
+&lt;a href="http://arts.uchicago.edu/hack-arts-lab-hal"&gt;Hack Arts Lab&lt;/a&gt;. Unfortunately,
+I had forgotten to get materials, so I had to use the scrap in the
+shop. I ended up cutting the main levers out of 3/4" thick plywood,
+which required 3 passes at high power and low speed to get
+through. Even then I had to use a Dremel to fully separate the pieces
+from the stock.&lt;/p&gt;
+&lt;p&gt;Some judicious application of superglue to skateboard bearings
+ensued. I like using skateboard bearings for moving parts because
+they're easy to get and relatively cheap. They also fit great on
+things that are 5/16" in diameter, such as Bic pens. I like superglue
+because I like taking risks and do not know fear.&lt;/p&gt;
+&lt;p&gt;Once the superglue dried, I hooked up the whole apparatus to an
+Arduino. The solenoids ran on 12V and 1.2A, which is far more than the
+Arduino can output, so I needed to use some power transistors and an
+external power source. Fortunately, I had planned ahead and converted
+an old computer power supply into a serviceable benchtop power supply,
+with binding posts for +12V, +5V, +3.3V, -5V, -12V, and GND. It even
+had fancy things like short protection and everything! I got the power
+transistors from RadioShack. Fat little suckers the size of your
+fingernail, rated for 90W.&lt;/p&gt;
+&lt;p&gt;After all the wiring was sorted it was relatively simple to get the
+lever to move. All I had to do was send a 5V, 20ms pulse to the base
+voltage on the transistor. Even with my limited knowledge of C I was
+able to manage that.&lt;/p&gt;
+&lt;p&gt;&lt;img src="images/animusic/animusic_arm.jpg"/&gt;&lt;/p&gt;
+&lt;p&gt;It remained to wire up several more solenoid-lever modules so we could
+play multiple instruments, and have some sort of method for writing
+music. I ran into some issues which were solved by adding a '\0' to
+the end of a string and felt like a greenhorn, but it all came
+together pretty quickly.&lt;/p&gt;
+&lt;p&gt;My friend Zach, an incredibly talented drummer (and the captain of our
+team), brought over his drumset on Saturday night. We spied some large
+pieces of MDF that nobody was using, and made a nice big base for
+everything. By 6:30 in the morning we had everything wired up and
+ready. Zach took a quick nap and about half an hour later we had this:&lt;/p&gt;
+&lt;iframe width="560" height="315" src="//www.youtube.com/embed/w9Puv_iJRiE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;We sat there watching it loop over and over, sleep-deprived,
+triumphant, shocked and awed by our own magnificence. A teammate
+snored loudly on the couch, somehow sleeping through everything.&lt;/p&gt;
+&lt;p&gt;Then Zach scrapped all the music and re-wrote
+it. &lt;a href="http://scavjudges.tumblr.com/post/85751911609/another-fabulous-completion-of-item-49-by-max"&gt;Here&lt;/a&gt;
+is the final result.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Xia</dc:creator><pubDate>Sun, 29 Jun 2014 00:00:00 -0500</pubDate><guid>tag:www.johnxia.me/blog,2014-06-29:animusic.html</guid><category>Scav</category></item><item><title>Ordered and Indetermined</title><link>http://www.johnxia.me/blog/ordered-indetermined.html</link><description>&lt;p&gt;Another project for my Data and Algorithms in Art class was to make
 something "Ordered and Indetermined." This phrase was pretty much left
 up to interpretation. I made some animations in JavaScript - this was
 pretty much my introduction to the language. Screenshots follow.&lt;/p&gt;
@@ -45,9 +113,7 @@ in it. To agitate the liquid we used
 we made a magnetic stirrer that only worked part of the time.&lt;/p&gt;
 &lt;p&gt;&lt;img src="images/water-blob/pool-top.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;Here is a video of me discovering that the fan goes too fast for the
-magnetic coupling. You can see that the rod only moves at the
-beginning and end, when the fan is slowest. We kept the fan slow by pulsing
-the fan for about 40ms at a time.&lt;/p&gt;
+magnetic coupling. We solved this by pulsing the fan for about 40ms.&lt;/p&gt;
 &lt;iframe width="420" height="315"
 src="//www.youtube.com/embed/a6MGmMGI2XQ" frameborder="0"
 allowfullscreen&gt;&lt;/iframe&gt;
@@ -155,16 +221,17 @@ of the joints.&lt;/p&gt;
 joined the bamboo - forming the joints with smooth Bondo, using small bamboo
 gussets, etc. The idea is to minimize the probability of kinks and air pockets
 in the fiber by making the joint as smooth as possible. I'll have to test to see
-which method works best.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Xia</dc:creator><pubDate>Thu, 05 Sep 2013 00:00:00 -0500</pubDate><guid>tag:www.johnxia.me/blog,2013-09-05:bamboo-bike.html</guid><category>bicycles</category></item><item><title>Tensegrity</title><link>http://www.johnxia.me/blog/tensegrity.html</link><description>&lt;p&gt;One day I was reminiscing about my childhood and remembered seeing a
-cool sculpture made only with steel tubes and cable. A bit of Googling
-revealed that this was a
-&lt;a href="https://en.wikipedia.org/wiki/Tensegrity"&gt;tensegrity structure&lt;/a&gt;. Tensegrity
-is visually intriguing because it uses cables and rods to make a stiff structure
-without having the rods touch each other.&lt;/p&gt;
-&lt;p&gt;I decided that I would make one myself. So for the next week or so, I
-got a few forks every time I went to the dining hall. Some
-fishing-line and some dremeling ensued, and here is the result:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="At its first exhibition within my dorm." src="http://www.johnxia.me/blog/images/tensegrity/tensegrity.jpg" /&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Xia</dc:creator><pubDate>Sat, 31 Aug 2013 00:00:00 -0500</pubDate><guid>tag:www.johnxia.me/blog,2013-08-31:tensegrity.html</guid><category>"art"</category></item><item><title>Scav 2011-2013</title><link>http://www.johnxia.me/blog/scav.html</link><description>&lt;h3&gt;Introduction&lt;/h3&gt;
+which method works best.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Xia</dc:creator><pubDate>Thu, 05 Sep 2013 00:00:00 -0500</pubDate><guid>tag:www.johnxia.me/blog,2013-09-05:bamboo-bike.html</guid><category>bicycles</category></item><item><title>Tensegrity</title><link>http://www.johnxia.me/blog/tensegrity.html</link><description>&lt;p&gt;One day I was reminiscing about my childhood and remembered seeing a cool
+sculpture made only with steel tubes and cable. A bit of Googling revealed that
+this was a
+&lt;a href="https://en.wikipedia.org/wiki/Tensegrity"&gt;tensegrity structure&lt;/a&gt;. Tensegrity is
+cool because it uses cables and rods to make a stiff structure without having
+the rods touch each other.&lt;/p&gt;
+&lt;p&gt;I decided that I would make one myself. So for the next week or so, I got a few
+forks every time I went to the dining hall. Some fishing-line and some dremeling ensued, and here is the result!&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;
+&lt;img src="images/tensegrity/tensegrity.jpg" style="width: 400px;"/&gt;
+&lt;/center&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Xia</dc:creator><pubDate>Sat, 31 Aug 2013 00:00:00 -0500</pubDate><guid>tag:www.johnxia.me/blog,2013-08-31:tensegrity.html</guid><category>"art"</category></item><item><title>Scav 2011-2013</title><link>http://www.johnxia.me/blog/scav.html</link><description>&lt;h3&gt;Introduction&lt;/h3&gt;
 &lt;p&gt;Every year, I partake in a four-day journey into madness called Scav (short for
 the University of Chicago Scavenger Hunt). There are several teams of a few
 dozen each; on the Wednesday night before Mother's Day we gather to receive the
