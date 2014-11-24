@@ -37,7 +37,7 @@ problems. Unfortunately the Google News API was deprecated long ago.
 
 [1]: http://nelc.uchicago.edu/faculty/woods
 [2]: /misc/NEHC_final.pdf
-[3]: https://www.facebook.com/groups/195435687182189/
+[3]: https://hack.uchicago.edu
 [4]: http://leafletjs.com/
 [5]: http://mapbox.com/
 [6]: http://developer.nytimes.com/docs/read/article_search_api_v2

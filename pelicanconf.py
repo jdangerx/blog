@@ -15,7 +15,8 @@ FEED_ALL_RSS = "feeds/rss.xml"
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 MENUITEMS = [("Projects", "/"), ("Articles", "/archives.html"),
-             ("About", "/pages/about.html")]
+             ("About", "/pages/about.html"), ("github", "http://www.github.com/jdangerx"),]
+             # ("resume", "/misc/resume.pdf")]
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 

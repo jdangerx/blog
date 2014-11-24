@@ -4,8 +4,10 @@ html {
 }
 
 body {
-    line-height: 180%;
+    line-height: 145%;
     color: #333333;
+    font-size: 20px;
+    /* font-size: 1em; */
 }
 
 /* content block */
@@ -14,6 +16,7 @@ div.content {
     width: 30em;
     margin: auto;
     padding: 2em;
+    box-shadow: 2px 2px 2px #8899BB;
 }
 
 /* links */
