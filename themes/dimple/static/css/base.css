@@ -1,13 +1,20 @@
 html {
     background-color: #EAEAF0;
-    font-family: 'EB Garamond', serif;
+    font-family: 'Vollkorn', serif;
 }
 
 body {
     line-height: 145%;
-    color: #333333;
-    font-size: 20px;
-    /* font-size: 1em; */
+    color: #444444;
+    font-size: 1.2em;
+}
+
+h1, h2, h3 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+div.content h1, h2, h3 {
+    color: #999999;
 }
 
 /* content block */

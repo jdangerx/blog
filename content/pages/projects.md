@@ -3,7 +3,7 @@ save_as: index.html
 
 ##Projects
 
-Hi these are my projects!
+Hi! These are some projects!
 
 Code Stuff:
 
