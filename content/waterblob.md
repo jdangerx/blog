@@ -20,7 +20,7 @@ in it. To agitate the liquid we used
 [Shapelock](http://shapelock.com/) to encase another magnet. Basically
 we made a magnetic stirrer that only worked part of the time.
 
-<img src="images/water-blob/pool-top.jpg"/>
+<img src="/images/water-blob/pool-top.jpg"/>
 
 Here is a video of me discovering that the fan goes too fast for the
 magnetic coupling. We solved this by pulsing the fan for about 40ms.
@@ -41,8 +41,8 @@ Video:
 
 Additional images:
 
-<img src="images/water-blob/long-view.jpg">
+<img src="/images/water-blob/long-view.jpg">
 
-<img src="images/water-blob/apparatus.jpg">
+<img src="/images/water-blob/apparatus.jpg">
 
 Pictures courtesy of Clare Koury.

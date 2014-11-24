@@ -16,11 +16,14 @@ some rubber bands, increasing the range to about 30 feet. To defend
 myself from zombies I needed to either set the catapult on the ground,
 or get a nearby friend to be my gunner as I crouched down.
 
-I did not kill any zombies with this.
+I did not tag any zombies with this, though not for lack of trying. My
+friend and I went hunting for them on my way to class - the zombie who
+tagged me didn't even realize I was playing until we started hooting
+and hollering and gently lobbing socks at him.
 
-<img src="http://www.johnxia.me/blog/images/hvz-catapult/catapult-1.jpg"/>
+<img src="/images/hvz-catapult/catapult-1.jpg"/>
 
-<img src="http://www.johnxia.me/blog/images/hvz-catapult/catapult-2.jpg"/>
+<img src="/images/hvz-catapult/catapult-2.jpg"/>
 
-<img src="http://www.johnxia.me/blog/images/hvz-catapult/catapult-3.jpg"/>
+<img src="/images/hvz-catapult/catapult-3.jpg"/>
 

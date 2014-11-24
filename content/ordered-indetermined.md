@@ -14,8 +14,8 @@ professor thought was uninteresting. So I stopped at making bouncing
 blocks. I wondered what it would look like if I just made a ton of
 bouncing rectangles:
 
-<a href="http://www.johnxia.me/ordered_indetermined/juggle.html">
-<img src="http://www.johnxia.me/blog/images/ordered-indetermined/juggle-view.jpg" style="width:400px;">
+<a href="/ordered_indetermined/juggle.html">
+<img src="/images/ordered-indetermined/juggle-view.jpg" style="width:400px;">
 <div class="caption">Click for animation...</div>
 </a>
 
@@ -24,7 +24,6 @@ The next idea, which I eventually presented in class, was
 all the workers do is ride elevators all day. I used
 [three.js](http://threejs.org/) to talk to WebGL.
 
-<a href="http://www.johnxia.me/ordered_indetermined/elevators.html">
-<img src="http://www.johnxia.me/blog/images/ordered-indetermined/elevatorcorp.jpg">
-<div class="caption">Click for animation...</div>
+<a href="/ordered_indetermined/elevators.html">
+<img src="/images/ordered-indetermined/elevatorcorp.jpg">
 </a>
