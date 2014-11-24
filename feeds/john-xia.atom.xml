@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>No Promises</title><link>http://www.johnxia.me/</link><description></description><atom:link href="http://www.johnxia.me/feeds/rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 29 Jun 2014 00:00:00 -0500</lastBuildDate><item><title>Animusic</title><link>http://www.johnxia.me/animusic.html</link><description>&lt;p&gt;This year for the
+<feed xmlns="http://www.w3.org/2005/Atom"><title>No Promises</title><link href="http://www.johnxia.me/" rel="alternate"></link><link href="http://www.johnxia.me/feeds/john-xia.atom.xml" rel="self"></link><id>http://www.johnxia.me/</id><updated>2014-06-29T00:00:00-05:00</updated><entry><title>Animusic</title><link href="http://www.johnxia.me/animusic.html" rel="alternate"></link><updated>2014-06-29T00:00:00-05:00</updated><author><name>John Xia</name></author><id>tag:www.johnxia.me,2014-06-29:animusic.html</id><summary type="html">&lt;p&gt;This year for the
 &lt;a href="http://scavhunt.uchicago.edu/list2014_2final.pdf"&gt;Scavenger Hunt&lt;/a&gt; I
 mostly worked on this item:&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;49. Bring us an Animusic-style instrument that plays itself. Once
@@ -67,7 +67,7 @@ triumphant, shocked and awed by our own magnificence. A teammate
 snored loudly on the couch, somehow sleeping through everything.&lt;/p&gt;
 &lt;p&gt;Then Zach scrapped all the music and re-wrote
 it. &lt;a href="http://scavjudges.tumblr.com/post/85751911609/another-fabulous-completion-of-item-49-by-max"&gt;Here&lt;/a&gt;
-is the final result.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Xia</dc:creator><pubDate>Sun, 29 Jun 2014 00:00:00 -0500</pubDate><guid>tag:www.johnxia.me,2014-06-29:animusic.html</guid><category>Scav</category></item><item><title>Ordered and Indetermined</title><link>http://www.johnxia.me/ordered-indetermined.html</link><description>&lt;p&gt;Another project for my Data and Algorithms in Art class was to make
+is the final result.&lt;/p&gt;</summary><category term="Scav"></category></entry><entry><title>Ordered and Indetermined</title><link href="http://www.johnxia.me/ordered-indetermined.html" rel="alternate"></link><updated>2014-05-20T11:30:00-05:00</updated><author><name>John Xia</name></author><id>tag:www.johnxia.me,2014-05-20:ordered-indetermined.html</id><summary type="html">&lt;p&gt;Another project for my Data and Algorithms in Art class was to make
 something "Ordered and Indetermined." This phrase was pretty much left
 up to interpretation. I made some animations in JavaScript - this was
 pretty much my introduction to the language. Screenshots follow.&lt;/p&gt;
@@ -86,7 +86,7 @@ all the workers do is ride elevators all day. I used
 &lt;p&gt;&lt;a href="http://www.johnxia.me/ordered_indetermined/elevators.html"&gt;
 &lt;img src="http://www.johnxia.me/blog/images/ordered-indetermined/elevatorcorp.jpg"&gt;
 &lt;div class="caption"&gt;Click for animation...&lt;/div&gt;
-&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Xia</dc:creator><pubDate>Tue, 20 May 2014 11:30:00 -0500</pubDate><guid>tag:www.johnxia.me,2014-05-20:ordered-indetermined.html</guid></item><item><title>HvZ Catapult</title><link>http://www.johnxia.me/hvz-catapult.html</link><description>&lt;p&gt;For my last game of &lt;a href="http://www.uchicagohvz.org"&gt;Humans vs. Zombies&lt;/a&gt; I
+&lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>HvZ Catapult</title><link href="http://www.johnxia.me/hvz-catapult.html" rel="alternate"></link><updated>2014-05-20T00:00:00-05:00</updated><author><name>John Xia</name></author><id>tag:www.johnxia.me,2014-05-20:hvz-catapult.html</id><summary type="html">&lt;p&gt;For my last game of &lt;a href="http://www.uchicagohvz.org"&gt;Humans vs. Zombies&lt;/a&gt; I
 decided that I would utilize the least effective strategy possible. I
 optimized my weaponry for highest visibility, lowest mobility, and
 lowest zombie-killing ability.&lt;/p&gt;
@@ -99,7 +99,7 @@ or get a nearby friend to be my gunner as I crouched down.&lt;/p&gt;
 &lt;p&gt;I did not kill any zombies with this.&lt;/p&gt;
 &lt;p&gt;&lt;img src="http://www.johnxia.me/blog/images/hvz-catapult/catapult-1.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="http://www.johnxia.me/blog/images/hvz-catapult/catapult-2.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://www.johnxia.me/blog/images/hvz-catapult/catapult-3.jpg"/&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Xia</dc:creator><pubDate>Tue, 20 May 2014 00:00:00 -0500</pubDate><guid>tag:www.johnxia.me,2014-05-20:hvz-catapult.html</guid></item><item><title>Water Blob</title><link>http://www.johnxia.me/water-blob.html</link><description>&lt;p&gt;&lt;img src="images/water-blob/projection-far.JPG"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://www.johnxia.me/blog/images/hvz-catapult/catapult-3.jpg"/&gt;&lt;/p&gt;</summary></entry><entry><title>Water Blob</title><link href="http://www.johnxia.me/water-blob.html" rel="alternate"></link><updated>2014-05-20T00:00:00-05:00</updated><author><name>John Xia</name></author><id>tag:www.johnxia.me,2014-05-20:water-blob.html</id><summary type="html">&lt;p&gt;&lt;img src="images/water-blob/projection-far.JPG"/&gt;&lt;/p&gt;
 &lt;p&gt;This quarter I am in &lt;a href="http://www.salavon.com"&gt;Jason Salavon&lt;/a&gt;'s Data
 and Algorithm in Art class. This is a group project I did with
 &lt;a href="http://clarekoury.tumblr.com"&gt;Clare Koury&lt;/a&gt; and Rebeca Carillo.&lt;/p&gt;
@@ -129,7 +129,7 @@ well I was doubly suprised.&lt;/p&gt;
 &lt;p&gt;Additional images:&lt;/p&gt;
 &lt;p&gt;&lt;img src="images/water-blob/long-view.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="images/water-blob/apparatus.jpg"&gt;&lt;/p&gt;
-&lt;p&gt;Pictures courtesy of Clare Koury.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Xia</dc:creator><pubDate>Tue, 20 May 2014 00:00:00 -0500</pubDate><guid>tag:www.johnxia.me,2014-05-20:water-blob.html</guid></item><item><title>Swingy Arm Thing</title><link>http://www.johnxia.me/swingy-arm-thing.html</link><description>&lt;p&gt;I was in an art class last quarter, taught by &lt;a href="http://www.hannahgivler.com"&gt;Hannah Givler&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;Pictures courtesy of Clare Koury.&lt;/p&gt;</summary></entry><entry><title>Swingy Arm Thing</title><link href="http://www.johnxia.me/swingy-arm-thing.html" rel="alternate"></link><updated>2014-02-07T00:00:00-06:00</updated><author><name>John Xia</name></author><id>tag:www.johnxia.me,2014-02-07:swingy-arm-thing.html</id><summary type="html">&lt;p&gt;I was in an art class last quarter, taught by &lt;a href="http://www.hannahgivler.com"&gt;Hannah Givler&lt;/a&gt;. &lt;/p&gt;
 &lt;p&gt;This project is called "Module Matters". The prompt is to make a
 reproducible module that can be used as a building block or an
 integral part of a sculpture.&lt;/p&gt;
@@ -166,7 +166,7 @@ allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;I hadn't really thought about how I would mount the piece. After a
 discussion with my professor I decided to cobble together some 2x4's
 and call it a day. I'm not proud of that, but the truth is the truth.&lt;/p&gt;
-&lt;p&gt;&lt;img src="images/swingy-arm-thing/finished.jpg"/&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Xia</dc:creator><pubDate>Fri, 07 Feb 2014 00:00:00 -0600</pubDate><guid>tag:www.johnxia.me,2014-02-07:swingy-arm-thing.html</guid><category>magnets</category><category>wood</category></item><item><title>Bamboo Bike</title><link>http://www.johnxia.me/bamboo-bike.html</link><description>&lt;p&gt;In high school I built some bamboo bikes. The second one broke and I rebuilt it.&lt;/p&gt;
+&lt;p&gt;&lt;img src="images/swingy-arm-thing/finished.jpg"/&gt;&lt;/p&gt;</summary><category term="magnets"></category><category term="wood"></category></entry><entry><title>Bamboo Bike</title><link href="http://www.johnxia.me/bamboo-bike.html" rel="alternate"></link><updated>2013-09-05T00:00:00-05:00</updated><author><name>John Xia</name></author><id>tag:www.johnxia.me,2013-09-05:bamboo-bike.html</id><summary type="html">&lt;p&gt;In high school I built some bamboo bikes. The second one broke and I rebuilt it.&lt;/p&gt;
 &lt;p&gt;Here are their stories.&lt;/p&gt;
 &lt;h3&gt;v0.1&lt;/h3&gt;
 &lt;p&gt;One day I was biking with my friend Chris. I said to him that we should build a
@@ -227,7 +227,7 @@ of the joints.&lt;/p&gt;
 joined the bamboo - forming the joints with smooth Bondo, using small bamboo
 gussets, etc. The idea is to minimize the probability of kinks and air pockets
 in the fiber by making the joint as smooth as possible. I'll have to test to see
-which method works best.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Xia</dc:creator><pubDate>Thu, 05 Sep 2013 00:00:00 -0500</pubDate><guid>tag:www.johnxia.me,2013-09-05:bamboo-bike.html</guid><category>bicycles</category></item><item><title>Tensegrity</title><link>http://www.johnxia.me/tensegrity.html</link><description>&lt;p&gt;One day I was reminiscing about my childhood and remembered seeing a cool
+which method works best.&lt;/p&gt;</summary><category term="bicycles"></category></entry><entry><title>Tensegrity</title><link href="http://www.johnxia.me/tensegrity.html" rel="alternate"></link><updated>2013-08-31T00:00:00-05:00</updated><author><name>John Xia</name></author><id>tag:www.johnxia.me,2013-08-31:tensegrity.html</id><summary type="html">&lt;p&gt;One day I was reminiscing about my childhood and remembered seeing a cool
 sculpture made only with steel tubes and cable. A bit of Googling revealed that
 this was a
 &lt;a href="https://en.wikipedia.org/wiki/Tensegrity"&gt;tensegrity structure&lt;/a&gt;. Tensegrity is
@@ -237,7 +237,7 @@ the rods touch each other.&lt;/p&gt;
 forks every time I went to the dining hall. Some fishing-line and some dremeling ensued, and here is the result!&lt;/p&gt;
 &lt;p&gt;&lt;center&gt;
 &lt;img src="images/tensegrity/tensegrity.jpg" style="width: 400px;"/&gt;
-&lt;/center&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Xia</dc:creator><pubDate>Sat, 31 Aug 2013 00:00:00 -0500</pubDate><guid>tag:www.johnxia.me,2013-08-31:tensegrity.html</guid><category>"art"</category></item><item><title>Scav 2011-2013</title><link>http://www.johnxia.me/scav.html</link><description>&lt;h3&gt;Introduction&lt;/h3&gt;
+&lt;/center&gt;&lt;/p&gt;</summary><category term='"art"'></category></entry><entry><title>Scav 2011-2013</title><link href="http://www.johnxia.me/scav.html" rel="alternate"></link><updated>2013-08-30T00:00:00-05:00</updated><author><name>John Xia</name></author><id>tag:www.johnxia.me,2013-08-30:scav.html</id><summary type="html">&lt;h3&gt;Introduction&lt;/h3&gt;
 &lt;p&gt;Every year, I partake in a four-day journey into madness called Scav (short for
 the University of Chicago Scavenger Hunt). There are several teams of a few
 dozen each; on the Wednesday night before Mother's Day we gather to receive the
@@ -358,7 +358,7 @@ style="width: 400px;"/&gt;&lt;/p&gt;
 &lt;h4&gt;The Aquagraphics Curtain&lt;/h4&gt;
 &lt;p&gt;&lt;em&gt;208. An aquagraphic-style water curtain that displays your team name or
 logo. [250 points]&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://http://jdangerx.github.io/blog/208.html"&gt;See my other post.&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Xia</dc:creator><pubDate>Fri, 30 Aug 2013 00:00:00 -0500</pubDate><guid>tag:www.johnxia.me,2013-08-30:scav.html</guid><category>scav</category></item><item><title>FourthApp</title><link>http://www.johnxia.me/fourth-app.html</link><description>&lt;p&gt;I'm currently an intern at
+&lt;p&gt;&lt;a href="http://http://jdangerx.github.io/blog/208.html"&gt;See my other post.&lt;/a&gt;&lt;/p&gt;</summary><category term="scav"></category></entry><entry><title>FourthApp</title><link href="http://www.johnxia.me/fourth-app.html" rel="alternate"></link><updated>2013-08-13T00:00:00-05:00</updated><author><name>John Xia</name></author><id>tag:www.johnxia.me,2013-08-13:fourth-app.html</id><summary type="html">&lt;p&gt;I'm currently an intern at
 &lt;a href="http://www.missionst.com/"&gt;Mission St. Manufacturing&lt;/a&gt;. We're a 3D
 printing company that's trying to streamline 3D printing. If you're
 not familiar with 3D printers, imagine building up an object with a
@@ -469,4 +469,4 @@ the different levels of grey represent exactly that! Instead of
 stacking the slices, turning that into triangles, then slicing up the
 triangles again, we can skip that middle step. This business of
 translating between slices and triangles gets into deep waters very
-quickly, though, and deserves its own post.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Xia</dc:creator><pubDate>Tue, 13 Aug 2013 00:00:00 -0500</pubDate><guid>tag:www.johnxia.me,2013-08-13:fourth-app.html</guid><category>3D printing</category><category>code</category></item></channel></rss>
+quickly, though, and deserves its own post.&lt;/p&gt;</summary><category term="3D printing"></category><category term="code"></category></entry></feed>
