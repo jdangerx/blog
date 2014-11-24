@@ -20,7 +20,7 @@ DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 
 DEFAULT_PAGINATION = 10
-STATIC_PATHS = ['images', 'extra/CNAME']
+STATIC_PATHS = ['images', 'extra/CNAME', 'misc']
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}

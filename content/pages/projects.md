@@ -1,13 +1,20 @@
-title: Projects
+title: John Xia
 save_as: index.html
+
+##Projects
 
 Hi these are my projects!
 
 Code Stuff:
 
 * [relativity map](../../relativity)
-* [ordered and indetermined](../../ordered_indetermined) <span class="small-text">[[writeup]](../ordered-indetermined.html)</span>
-* mkrcp <span class="small-text">[[code]](http://www.github.com/jdangerx/mkrcp)</span>
+  <span class="small-text">[[code]](http://www.github.com/jdangerx/relativity)</span>
+  <span class="small-text">[[writeup]](../speed-of-news.html)</span>
+* [ordered and indetermined](../../ordered_indetermined)
+  <span class="small-text">[[code]](http://www.github.com/jdangerx/ordered_indetermined)</span>
+  <span class="small-text">[[writeup]](../ordered-indetermined.html)</span>
+* mkrcp
+  <span class="small-text">[[code]](http://www.github.com/jdangerx/mkrcp)</span>
 
 Real Stuff:
 
