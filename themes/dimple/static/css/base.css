@@ -1,6 +1,20 @@
 html {
     background-color: #EAEAF0;
     font-family: 'Vollkorn', serif;
+    background: repeating-linear-gradient(
+      0deg,
+      #EAEAF0,
+      #EAEAF0 0.2em,
+      #E8E8EF 0.2em,
+      #E8E8EF 0.4em
+    );
+    background: -webkit-repeating-linear-gradient(
+      0deg,
+      #EAEAF0,
+      #EAEAF0 0.2em,
+      #E8E8EF 0.2em,
+      #E8E8EF 0.4em
+    );
 }
 
 body {
@@ -26,8 +40,13 @@ div.content {
     box-shadow: 2px 2px 2px #8899BB;
 }
 
+div.content blockquote {
+    color: #996666;
+    font-family: 'Open Sans', sans-serif;
+}
+
 /* links */
-div.content a {
+a {
     color: #336699;
     text-decoration: none;
 }
