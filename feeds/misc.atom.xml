@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>No Promises</title><link href="http://www.johnxia.me/" rel="alternate"></link><link href="http://www.johnxia.me/feeds/misc.atom.xml" rel="self"></link><id>http://www.johnxia.me/</id><updated>2014-06-29T00:00:00-05:00</updated><entry><title>Animusic</title><link href="http://www.johnxia.me/animusic.html" rel="alternate"></link><updated>2014-06-29T00:00:00-05:00</updated><author><name>John Xia</name></author><id>tag:www.johnxia.me,2014-06-29:animusic.html</id><summary type="html">&lt;p&gt;This year for the
+<feed xmlns="http://www.w3.org/2005/Atom"><title>No Promises</title><link href="http://www.johnxia.me/" rel="alternate"></link><link href="http://www.johnxia.me/feeds/misc.atom.xml" rel="self"></link><id>http://www.johnxia.me/</id><updated>2014-11-23T00:00:00-06:00</updated><entry><title>The Speed of News</title><link href="http://www.johnxia.me/speed-of-news.html" rel="alternate"></link><updated>2014-11-23T00:00:00-06:00</updated><author><name>John Xia</name></author><id>tag:www.johnxia.me,2014-11-23:speed-of-news.html</id><summary type="html">&lt;p&gt;In college, I was fortunate enough to take a course on Sumerian
+literature from &lt;a href="http://nelc.uchicago.edu/faculty/woods"&gt;Christopher Woods&lt;/a&gt;. We learned, among other
+things, that in ancient Sumeria places that were far away were also
+somehow farther in the past. This is roughly similar to the
+correspondence between space and time which we study in
+relativity. Why did the Sumerians find space-time unification so
+natural? In my &lt;a href="/misc/NEHC_final.pdf"&gt;final paper&lt;/a&gt;, I argued that at the core of both
+conceptions of space-time was the limited speed of information. In
+ancient Sumeria, the speed of information was much slower than the
+speed of light, and thus the time-bending effects of space were more
+evident. Fortunately, Dr. Woods was a physics student in his youth and
+let me get away with writing 10 pages about physics for my
+Civilization Studies course.&lt;/p&gt;
+&lt;p&gt;Several years later and a couple weeks ago, I participated in the
+&lt;a href="https://hack.uchicago.edu"&gt;hack@UChicago&lt;/a&gt; Fall Hackathon on a whim. I was tooting around
+after the workshops, trying to figure out what to make, when I
+remembered that paper.&lt;/p&gt;
+&lt;p&gt;I decided to make a &lt;a href="/relativity"&gt;map&lt;/a&gt; that would let you see what
+sort of news you would be hearing from around the world if news
+traveled at human speeds. The blue (draggable) marker is your current
+location. You can click the map to find the news that you would be
+hearing from there. There's a dropdown menu with different news
+speeds.&lt;/p&gt;
+&lt;p&gt;To make the map, I used a simple &lt;a href="http://leafletjs.com/"&gt;Leaflet&lt;/a&gt; map with a &lt;a href="http://mapbox.com/"&gt;Mapbox&lt;/a&gt;
+tile layer.  I use the Mapbox geocoder to find the location of your
+click; it is, regrettably, of little use outside of the United States
+and southern Canada. I use the &lt;a href="http://developer.nytimes.com/docs/read/article_search_api_v2"&gt;New York Times Article Search API&lt;/a&gt; to
+find news from that location; it has similar regional
+problems. Unfortunately the Google News API was deprecated long ago.&lt;/p&gt;</summary></entry><entry><title>Animusic</title><link href="http://www.johnxia.me/animusic.html" rel="alternate"></link><updated>2014-06-29T00:00:00-05:00</updated><author><name>John Xia</name></author><id>tag:www.johnxia.me,2014-06-29:animusic.html</id><summary type="html">&lt;p&gt;This year for the
 &lt;a href="http://scavhunt.uchicago.edu/list2014_2final.pdf"&gt;Scavenger Hunt&lt;/a&gt; I
 mostly worked on this item:&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;49. Bring us an Animusic-style instrument that plays itself. Once
@@ -75,17 +103,16 @@ pretty much my introduction to the language. Screenshots follow.&lt;/p&gt;
 professor thought was uninteresting. So I stopped at making bouncing
 blocks. I wondered what it would look like if I just made a ton of
 bouncing rectangles:&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.johnxia.me/ordered_indetermined/juggle.html"&gt;
-&lt;img src="http://www.johnxia.me/blog/images/ordered-indetermined/juggle-view.jpg" style="width:400px;"&gt;
+&lt;p&gt;&lt;a href="/ordered_indetermined/juggle.html"&gt;
+&lt;img src="/images/ordered-indetermined/juggle-view.jpg" style="width:400px;"&gt;
 &lt;div class="caption"&gt;Click for animation...&lt;/div&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The next idea, which I eventually presented in class, was
 "ElevatorCorp", an idealized simulation of an office building where
 all the workers do is ride elevators all day. I used
 &lt;a href="http://threejs.org/"&gt;three.js&lt;/a&gt; to talk to WebGL.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.johnxia.me/ordered_indetermined/elevators.html"&gt;
-&lt;img src="http://www.johnxia.me/blog/images/ordered-indetermined/elevatorcorp.jpg"&gt;
-&lt;div class="caption"&gt;Click for animation...&lt;/div&gt;
+&lt;p&gt;&lt;a href="/ordered_indetermined/elevators.html"&gt;
+&lt;img src="/images/ordered-indetermined/elevatorcorp.jpg"&gt;
 &lt;/a&gt;&lt;/p&gt;</summary></entry><entry><title>HvZ Catapult</title><link href="http://www.johnxia.me/hvz-catapult.html" rel="alternate"></link><updated>2014-05-20T00:00:00-05:00</updated><author><name>John Xia</name></author><id>tag:www.johnxia.me,2014-05-20:hvz-catapult.html</id><summary type="html">&lt;p&gt;For my last game of &lt;a href="http://www.uchicagohvz.org"&gt;Humans vs. Zombies&lt;/a&gt; I
 decided that I would utilize the least effective strategy possible. I
 optimized my weaponry for highest visibility, lowest mobility, and
@@ -96,10 +123,13 @@ HvZ's past. When that proved to be a little bit too pathetic I added
 some rubber bands, increasing the range to about 30 feet. To defend
 myself from zombies I needed to either set the catapult on the ground,
 or get a nearby friend to be my gunner as I crouched down.&lt;/p&gt;
-&lt;p&gt;I did not kill any zombies with this.&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://www.johnxia.me/blog/images/hvz-catapult/catapult-1.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://www.johnxia.me/blog/images/hvz-catapult/catapult-2.jpg"/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://www.johnxia.me/blog/images/hvz-catapult/catapult-3.jpg"/&gt;&lt;/p&gt;</summary></entry><entry><title>Water Blob</title><link href="http://www.johnxia.me/water-blob.html" rel="alternate"></link><updated>2014-05-20T00:00:00-05:00</updated><author><name>John Xia</name></author><id>tag:www.johnxia.me,2014-05-20:water-blob.html</id><summary type="html">&lt;p&gt;&lt;img src="images/water-blob/projection-far.JPG"/&gt;&lt;/p&gt;
+&lt;p&gt;I did not tag any zombies with this, though not for lack of trying. My
+friend and I went hunting for them on my way to class - the zombie who
+tagged me didn't even realize I was playing until we started hooting
+and hollering and gently lobbing socks at him.&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/hvz-catapult/catapult-1.jpg"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/hvz-catapult/catapult-2.jpg"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/hvz-catapult/catapult-3.jpg"/&gt;&lt;/p&gt;</summary></entry><entry><title>Water Blob</title><link href="http://www.johnxia.me/water-blob.html" rel="alternate"></link><updated>2014-05-20T00:00:00-05:00</updated><author><name>John Xia</name></author><id>tag:www.johnxia.me,2014-05-20:water-blob.html</id><summary type="html">&lt;p&gt;&lt;img src="images/water-blob/projection-far.JPG"/&gt;&lt;/p&gt;
 &lt;p&gt;This quarter I am in &lt;a href="http://www.salavon.com"&gt;Jason Salavon&lt;/a&gt;'s Data
 and Algorithm in Art class. This is a group project I did with
 &lt;a href="http://clarekoury.tumblr.com"&gt;Clare Koury&lt;/a&gt; and Rebeca Carillo.&lt;/p&gt;
@@ -111,7 +141,7 @@ couple seconds. The fan had a magnet attached to it.&lt;/p&gt;
 in it. To agitate the liquid we used
 &lt;a href="http://shapelock.com/"&gt;Shapelock&lt;/a&gt; to encase another magnet. Basically
 we made a magnetic stirrer that only worked part of the time.&lt;/p&gt;
-&lt;p&gt;&lt;img src="images/water-blob/pool-top.jpg"/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/water-blob/pool-top.jpg"/&gt;&lt;/p&gt;
 &lt;p&gt;Here is a video of me discovering that the fan goes too fast for the
 magnetic coupling. We solved this by pulsing the fan for about 40ms.&lt;/p&gt;
 &lt;iframe width="420" height="315"
@@ -127,6 +157,6 @@ well I was doubly suprised.&lt;/p&gt;
 &lt;iframe width="560" height="315" src="//www.youtube.com/embed/yCI13KS8Hrw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Additional images:&lt;/p&gt;
-&lt;p&gt;&lt;img src="images/water-blob/long-view.jpg"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="images/water-blob/apparatus.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/water-blob/long-view.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="/images/water-blob/apparatus.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;Pictures courtesy of Clare Koury.&lt;/p&gt;</summary></entry></feed>

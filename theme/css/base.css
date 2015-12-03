@@ -1,11 +1,34 @@
 html {
     background-color: #EAEAF0;
-    font-family: 'EB Garamond', serif;
+    font-family: 'Vollkorn', serif;
+    background: repeating-linear-gradient(
+      0deg,
+      #EAEAF0,
+      #EAEAF0 0.2em,
+      #E8E8EF 0.2em,
+      #E8E8EF 0.4em
+    );
+    background: -webkit-repeating-linear-gradient(
+      0deg,
+      #EAEAF0,
+      #EAEAF0 0.2em,
+      #E8E8EF 0.2em,
+      #E8E8EF 0.4em
+    );
 }
 
 body {
-    line-height: 180%;
-    color: #333333;
+    line-height: 145%;
+    color: #444444;
+    font-size: 1.2em;
+}
+
+h1, h2, h3 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+div.content h1, h2, h3 {
+    color: #999999;
 }
 
 /* content block */
@@ -14,10 +37,16 @@ div.content {
     width: 30em;
     margin: auto;
     padding: 2em;
+    box-shadow: 2px 2px 2px #8899BB;
+}
+
+div.content blockquote {
+    color: #996666;
+    font-family: 'Open Sans', sans-serif;
 }
 
 /* links */
-div.content a {
+a {
     color: #336699;
     text-decoration: none;
 }
@@ -51,8 +80,10 @@ span.small-text {
 
 /* images */
 img {
+    display:block;
     width: 80%;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* youtube */
@@ -72,4 +103,12 @@ hr {
 footer {
     font-size: 0.75em;
     color: #666666;
+}
+
+/* ipynb stuff */
+.highlight, code {
+    width: 100;
+    font-size: 0.7em;
+    background-color: #f9f9f9;
+    overflow: auto;
 }

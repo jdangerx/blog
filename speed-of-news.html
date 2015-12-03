@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+          <title>No Promises</title>
+        <meta charset="utf-8" />
+        <link href='http://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" type="text/css" href="/theme/css/base.css"/>
+        <link href="http://www.johnxia.me/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="No Promises Full Atom Feed" />
+        <link href="http://www.johnxia.me/feeds/rss.xml" type="application/rss+xml" rel="alternate" title="No Promises Full RSS Feed" />
+        <link href="http://www.johnxia.me/feeds/misc.atom.xml" type="application/atom+xml" rel="alternate" title="No Promises Categories Atom Feed" />
+
+
+
+
+</head>
+
+<body id="index" class="home">
+  <div class="content">
+        <header id="banner" class="body">
+                <h1><a href="./">No Promises <strong></strong></a></h1>
+        </header><!-- /#banner -->
+        <nav id="menu"><ul>
+            <li><a href="/">projects</a></li>
+            <li><a href="/archives.html">blog</a></li>
+            <li><a href="/pages/about.html">about</a></li>
+            <li><a href="http://www.github.com/jdangerx">github</a></li>
+            <li><a href="/misc/resume.pdf">resume</a></li>
+        </ul></nav><!-- /#menu -->
+        <hr>
+<section id="content" class="body">
+  <header>
+    <h2 class="entry-title">
+      <a href="./speed-of-news.html" rel="bookmark"
+         title="Permalink to The Speed of News">The Speed of News</a></h2>
+ 
+  </header>
+  <footer class="post-info">
+    <abbr class="published" title="2014-11-23T00:00:00-06:00">
+      Sun 23 November 2014
+    </abbr>
+    <address class="vcard author">
+      By           <a class="url fn" href="./author/john-xia.html">John Xia</a>
+    </address>
+  </footer><!-- /.post-info -->
+  <div class="entry-content">
+    <p>In college, I was fortunate enough to take a course on Sumerian
+literature from <a href="http://nelc.uchicago.edu/faculty/woods">Christopher Woods</a>. We learned, among other
+things, that in ancient Sumeria places that were far away were also
+somehow farther in the past. This is roughly similar to the
+correspondence between space and time which we study in
+relativity. Why did the Sumerians find space-time unification so
+natural? In my <a href="/misc/NEHC_final.pdf">final paper</a>, I argued that at the core of both
+conceptions of space-time was the limited speed of information. In
+ancient Sumeria, the speed of information was much slower than the
+speed of light, and thus the time-bending effects of space were more
+evident. Fortunately, Dr. Woods was a physics student in his youth and
+let me get away with writing 10 pages about physics for my
+Civilization Studies course.</p>
+<p>Several years later and a couple weeks ago, I participated in the
+<a href="https://hack.uchicago.edu">hack@UChicago</a> Fall Hackathon on a whim. I was tooting around
+after the workshops, trying to figure out what to make, when I
+remembered that paper.</p>
+<p>I decided to make a <a href="/relativity">map</a> that would let you see what
+sort of news you would be hearing from around the world if news
+traveled at human speeds. The blue (draggable) marker is your current
+location. You can click the map to find the news that you would be
+hearing from there. There's a dropdown menu with different news
+speeds.</p>
+<p>To make the map, I used a simple <a href="http://leafletjs.com/">Leaflet</a> map with a <a href="http://mapbox.com/">Mapbox</a>
+tile layer.  I use the Mapbox geocoder to find the location of your
+click; it is, regrettably, of little use outside of the United States
+and southern Canada. I use the <a href="http://developer.nytimes.com/docs/read/article_search_api_v2">New York Times Article Search API</a> to
+find news from that location; it has similar regional
+problems. Unfortunately the Google News API was deprecated long ago.</p>
+  </div><!-- /.entry-content -->
+  <a href="/archives.html">< back</a>
+</section>
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
+                which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+        </footer><!-- /#contentinfo -->
+  </div>
+</body>
+</html>
